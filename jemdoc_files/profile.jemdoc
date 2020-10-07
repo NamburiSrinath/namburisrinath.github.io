@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{profile.html}
+
+= Research Interests
+I broadly classify my research interests into 2 types
+. Interests which I pursue as part of *profession/career* 
+	.. Artificial Intelligence
+	.. Machine Learning, Deep Learning (Primary focus on Computer Vision)
+. Interests which are like a *hobby* 
+	.. Biology - Neuroscience, Genetics
+	.. Physics (Especially Quantum side)
+	.. Economics, Finance
+	.. Mathematics
+
+I know I can't be a master in these fields, but I learn by reading various Non Fiction books. Check the [booksandblogs.html Books and Blogs] tab to understand more on this.
+	
+= Education
+==== Bachelor Of Technology (B.Tech.) - June 2015 to May 2019 
+/Specialisation:/ Electronics and Communication Engineering (ECE) from NIT Calicut.\n
+/Undergraduate Thesis: / Object classification and tracking for autonomous carnavigation in Indian road scenarios [https://github.com/NamburiSrinath/NITCAD-dataset (PDF)]\n
+/Advisor: / [http://www.nitc.ac.in/index.php/?url=users/view/320/10/3 Dr. Praveen Sankaran] \n \n
+/Mini Project Thesis: / A Blind Assistive Device [https://github.com/NamburiSrinath/Blind-Assistive-Device (PDF)]\n
+/Advisor: / [http://ece.nitc.ac.in/index.php?option=com_php&Itemid=66&uname=dhanaraj Dr. Dhanaraj] \n \n
+/Other interesting reports: / [https://github.com/NamburiSrinath/GravitationalWaves Gravitational waves], [https://github.com/NamburiSrinath/Artificial-Intelligence Artificial Intelligence coursework]
+
+Prior to that, I studied in FIITJEE and Ravindra Bharathi Public School and Kennedy in Vijayawada.
+ 
+= Professional Work and Internships
+
+==== Feb 2020 - Present: Junior Research fellow (JRF), CiSTUP, IISc Bangalore
+Working with [http://civil.iisc.ac.in/~tarunr/index.html Dr. Tarun Rambha] on  developing algorithms to reduce traffic congestion for Bangalore buses. My work is focused towards solving “Bus  bunching” problem to reduce traffic congestion.
+==== Aug 2019 - Feb 2020: Software Developer, Microfocus, Bangalore
+Worked as a backend developer in ZENWorks Service desk (ZSD) which is primarily a ticket-raising platform. Tasks include fixing customer bugs, developing features related to automatic database up-gradation and writing basic RESTful services.
+==== Dec 2018: Internship, IIST Trivandrum
+Worked with [https://www.iist.ac.in/avionics/deepak.mishra Dr. Deepak Mishra] on Computer Vision. Project involves detecting number plates from traffic video footage. [https://github.com/NamburiSrinath/Numberplate-recognition-from-traffic-surveillance-footage (Report PDF)]
+
+I am grateful to all the faculties who taught me and their role is vital in shaping my career.
+
+

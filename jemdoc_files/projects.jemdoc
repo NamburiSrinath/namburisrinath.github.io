@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{projects.html}
+
+== Object classification, detection and tracking for autonomous vehicle navigation in Indian road scenarios
+Worked on algorithms such as YOLO, R-CNN to detect, classify and track objects like car, pedestrian etc. Estimated the velocity of vehicles present in a video. Worked on KITTI LiDAR to get performance analysis of algorithms such as ``Gaussian Mixture Models",``Fast Segmentation". Created a dataset suitable for Indian roads which can be used for future research towards the development of autonomous vehicles in India.
+
+== A Blind Assistive Device
+Designed a hat which can detect obstacles and warns according to the distance from it. An improved version of this can be used by blind people replacing traditional stick thus improving reliability.
+
+== Number plate detection from traffic surveillance footage
+As part of winter internship, worked under Dr.Deepak Mishra at Indian Institute Of Space Science Technology(IIST), Trivandrum worked on traffic video footage to detect, recognise and match number plates of vehicles.
+
+== Research Assistant, Electrical Line Inspection Robot, Ph.D(Mech)
+Worked as a research assistant for a Mechanical PhD project and as a 3-member team, developed a robot (which has 14 servo motors and 10 DC motors) which can traverse through electrical transmission lines and cross junctions, poles.
+
+== Online Shopping skillset for Alexa - NITCkathon.ai (24hr event)
+As part of NITC hackathon conducted by JMR InfoTech,  worked as a 3-member team and developed a skillset for Amazon Alexa to understand different skills related to online shopping.
+
+== Smart Energy Meter - MITS Hackathon, Kochi (24hr event)
+Worked as a 4-member team and developed a module which can be installed to existing energy meters(instead of replacing the entire energy meter) thus providing details about electricity consumption, thefts etc to a remote website through Wi-Fi module.
+
+== Cloud Based Attendance using Biometric Scanner
+As a 3-member team, we installed a biometric scanner in our lab (Robotics Interest Group - RIG) replacing the register for entry/exit timings. Data is sent to local website so that it is easy to know whether a person is present or not. The relevant statistics are displayed in the local website.
