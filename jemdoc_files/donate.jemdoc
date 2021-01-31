@@ -1,0 +1,5 @@
+# jemdoc: menu{MENU}{donate.html}
+
+If you find anything useful in this website, consider donating a cup of milk (as I won't drink coffee or tea) 
+
+{{<script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/donate-for-support-4" style="max-width: 500px; min-width: 250px; max-height:none!important" width="100%"></iframe>}}
