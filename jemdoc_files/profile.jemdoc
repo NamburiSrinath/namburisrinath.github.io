@@ -1,18 +1,5 @@
 # jemdoc: menu{MENU}{profile.html}
 
-= Research Interests
-I broadly classify my research interests into 2 types
-. Interests which I pursue as part of *profession/career* 
-	.. Artificial Intelligence
-	.. Machine Learning, Deep Learning (Primary focus on Computer Vision)
-. Interests which are like a *hobby* 
-	.. Biology - Neuroscience, Genetics
-	.. Physics (Especially Quantum side)
-	.. Economics, Finance
-	.. Mathematics
-
-I know I can't be a master in these fields, but I learn by reading various Non Fiction books. Check the [booksandblogs.html Books and Blogs] tab to understand more on this.
-	
 = Education
 ==== Masters - Aug 2021 to May 2024
 /Specialisation:/ Computer Science (CSE), University of Wisconsin - Madison. \n
@@ -20,6 +7,13 @@ I know I can't be a master in these fields, but I learn by reading various Non F
 /Advisor: / [https://pages.cs.wisc.edu/~fredsala/ Prof. Frederic Sala]
 
 I also had great chance working with [https://www.biostat.wisc.edu/~yli/ Prof. Yin Li] during my Masters.
+
+/Other interesting reports:/
+- Trade-offs in Learning Commonsense vs Factual Knowledge
+with Pretrained Language Models [./images/research/CS839_Report.pdf (PDF)]
+- Dataset Augmentation using Diffusion Models [./images/research/CS771_Finalreport.pdf (PDF)]
+- Presentation for CS762, Advanced Deep Learning [./images/research/CS762_Presentation.pdf (PDF)]
+- Presentation for CS839, Foundational Models [./images/research/CS839_Presentation.pdf (PDF)]
 
 ==== Bachelor Of Technology (B.Tech.) - June 2015 to May 2019 
 /Specialisation:/ Electronics and Communication Engineering (ECE),  NIT Calicut.\n
@@ -33,13 +27,80 @@ Prior to that, I did my intermediate from  FIITJEE and schooling from Ravindra B
  
 = Professional Work and Internships
 
-==== Feb 2020 - Present: Junior Research fellow (JRF), CiSTUP, IISc Bangalore
-Working with [http://civil.iisc.ac.in/~tarunr/index.html Dr. Tarun Rambha] on  developing algorithms to reduce traffic congestion for Bangalore buses. My work is focused towards solving “Bus  bunching” problem to reduce traffic congestion.
-==== Aug 2019 - Feb 2020: Software Developer, Microfocus, Bangalore
-Worked as a backend developer in ZENWorks Service desk (ZSD) which is primarily a ticket-raising platform. Tasks include fixing customer bugs, developing features related to automatic database up-gradation and writing basic RESTful services.
-==== Dec 2018: Internship, IIST Trivandrum
+~~~
+{}{img_left}{./images/companylogos/gehealthcare.jpg}{}{250px}{}{}
+== AI Scientist, GE HealthCare
+==== June 2024 - Present
+- Manager: [https://www.linkedin.com/in/jun-ma-50b05014/ Jun Ma] and VP [https://www.linkedin.com/in/caoxiao/ Danica]
+- Building customer-faced and internal-used chatbots for diagnosing repairs and fixed for various medical devices.
+- Also working to understand the alignment aspects of LLMs under compression.
+~~~
+
+~~~
+{}{img_left}{./images/companylogos/amazon.png}{}{250px}{}{}
+== Applied Scientist (Intern), Amazon
+==== May 2023 - Aug 2023
+- My manager: [https://www.linkedin.com/in/brijeshsinghal/ Brijesh]
+- Created an LLM-based recommendation pipeline for Amazon's inventory, which recommends event-specific products from a catalog of 25 million items.
+- Leveraged Sentence Transformers to generate embeddings, FAISS for efficient similarity search and HDBSCAN, UMAP to create a robust pipeline which is capable of rejecting false positives. 
+- Captured higher seasonal demand compared to existing pipelines at Amazon both on historical and forecast demand data.
+~~~
+
+~~~
+{}{img_left}{./images/companylogos/truera.jpeg}{}{250px}{}{}
+== Machine Learning Scientist (Intern), Truera
+==== May 2022 - Aug 2022
+- My manager: [https://www.linkedin.com/in/ricardo-shih-8a3b6324/ Ricardo Shih]
+- Worked on segment level root cause analysis (RCA) for NLP models to understand how models treat different segments differently. Implemented metrics such as Wasserstein distance, Difference of Sums on Yelp dataset to identify tokens that might be responsible for Disparate Impact (DI).
+- Used Trulens, an open-source explainability framework for NLP model probing and implemented functions to probe at a specific layer. Visualized Influence Sensitivity Plots (ISPs) for downstream debugging of neural networks.
+~~~
+
+~~~
+{}{img_left}{./images/companylogos/uw.png}{}{250px}{}{}
+== University of Wisconsin - Madison
+==== Teaching Assistant
+==== Fall 2021, Fall 2022, Spring 2023, Fall 2024, Spring 2024
+- Worked as a TA for CS220 Introduction to Data Science for various semesters. Common responsibilites include grading, proctoring, preparing questions/materials, holding office hours.
+==== Research Assistant
+==== Spring 2022
+- Worked with [https://scholar.google.com/citations?hl=en&user=W86WgnQAAAAJ&view_op=list_works&sortby=pubdate Prof. Kevin Eliceiri] on medical image segmentation using traditional computer vision and self supervised techniques. 
+~~~
+
+~~~
+{}{img_left}{./images/companylogos/iisc.png}{}{250px}{}{}
+== Junior Research fellow (JRF), CiSTUP, IISc Bangalore
+==== Feb 2020 - Feb 2021 
+Worked with [http://civil.iisc.ac.in/~tarunr/index.html Dr. Tarun Rambha] on  developing algorithms to reduce traffic congestion for Bangalore buses. \n
+My work is focused towards solving “Bus  bunching” problem to reduce traffic congestion.
+~~~
+
+~~~
+{}{img_left}{./images/companylogos/microfocus.jpg}{}{250px}{}{}
+== Software Developer, Microfocus
+==== Aug 2019 - Feb 2020
+Worked as a backend developer in ZENWorks Service desk (ZSD) which is primarily a ticket-raising platform. My tasks include fixing customer bugs, developing features related to automatic database up-gradation and writing basic RESTful services.
+~~~
+
+~~~
+{}{img_left}{./images/companylogos/iist.jpeg}{}{250px}{}{}
+== Internship, IIST Trivandrum
+==== Dec 2018
 Worked with [https://www.iist.ac.in/avionics/deepak.mishra Dr. Deepak Mishra] on Computer Vision. Project involves detecting number plates from traffic video footage. [https://github.com/NamburiSrinath/Numberplate-recognition-from-traffic-surveillance-footage (Report PDF)]
+~~~
 
 I am grateful to all the faculties who taught me as their role is vital in shaping my career.
 
+= Research Interests
+I broadly classify my research interests into 2 types
+. Interests which I pursue as part of *profession/career* 
+	.. Artificial Intelligence
+	.. Machine Learning, Deep Learning (Primary focus on Computer Vision)
+. Interests which are like a *hobby* 
+	.. Biology - Neuroscience, Genetics
+	.. Physics (Especially Quantum side)
+	.. Economics, Finance
+	.. Mathematics
+
+I know I can't be a master in these fields, but I learn by reading various Non Fiction books. Check the [booksandblogs.html Books and Blogs] tab to understand more on this.
+	
 
