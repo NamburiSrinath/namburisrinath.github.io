@@ -5,7 +5,7 @@ If you landed to this page, it means you are interested to know more about "How 
 
 Truth be told, I am not the right guy to get inspiration from. I have this inferior complex most of the times and while I don't compare with others, I always look high of my peer accomplishments and try to get inspiration and push myself harder (sometimes hurting!) to improve myself and my skills. 
 
-That being said, *there's a lot of serendipity and perseverance* that goes on in building a research profile as it's not everyone's cup of tea. The *ability to handle rejections* is a true skill that a researcher will develop over the course of one's journey. Occasionally, I take break from all kinds of work. And my friends (who are fellow researchers) always suggest to *focus on building skills* and *doing good work* rather than targetting for a publication as a good work eventually results in a good paper (or a good patent, good research blog post). While I agree to his advice, given this fast-paced field, the sheer amount of pressure and expectations being built around the community makes it even more difficult to stay at top of the field.
+That being said, there's a lot of *serendipity* and *perseverance* that goes on in building a research profile as it's not everyone's cup of tea. The *ability to handle rejections* is a true skill that a researcher will develop over the course of one's journey. Occasionally, I take break from all kinds of work. And my friends (who are fellow researchers) always suggest to *focus on building skills* and *doing good work* rather than targetting for a publication as a good work eventually results in a good paper (or a good patent, good research blog post). While I agree to his advice, given this fast-paced field, the sheer amount of pressure and expectations being built around the community makes it even more difficult to stay at top of the field.
 
 I am sorry but I don't have any particular advice if you are looking for one. Neither am I qualified enough to provide any such advice. I made this page so at a bare minimum:
 - It should serve as a gentle reminder of the journey that I went through to become who I am now.
@@ -19,7 +19,7 @@ I am sorry but I don't have any particular advice if you are looking for one. Ne
 - Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain) \n
   *Story* \n
   -- Was lucky to meet Subba (first author) during NeurIPS 2024 and collaborated as our research interests coincided. \n
-  -- Truth be told, he managed most of the work along with the 2nd author for the submission to ICLR 2025 which got accepted with ratings 6688 [https://openreview.net/forum?id=xkgfLXZ4e0 (OpenReview)]\n .  
+  -- Truth be told, he managed most of the work along with the 2nd author for the submission to ICLR 2025 which got accepted with ratings 6688 [https://openreview.net/forum?id=xkgfLXZ4e0 (OpenReview)]. \n  
      
 - Pearls from Pebbles: Improved Confidence Functions for Auto-labeling \n
   *Story* \n
@@ -39,12 +39,12 @@ I am sorry but I don't have any particular advice if you are looking for one. Ne
     -- My professor Fred suggested that Nick (first author; PhD) was working on a project that might be of my interest (as I already published my EMNLP 2023 on compression with Fred). Lucky enough, Nick said he needs some help with experimental setup and I quickly onboarded. Truth be told, I didn't involve very actively during the initial submission round due to time constraints. \n 
     -- Our first submission was rejected at NeurIPS 2024 with ratings 345 [https://openreview.net/forum?id=5to57WN28m (OpenReview)]. Even we are aware that the work can be strengthened. \n
     -- But the 2nd submission also got rejected at ICLR 2025 with ratings 356 [https://openreview.net/forum?id=rXrYdOtBfs (OpenReview)]. While we don't -- agree with all the reviews, that's the luck part. \n
-    We didn't submit to ICML 2025 as we felt we can substantially strengthen the paper.
+    -- We didn't submit to ICML 2025 as we felt we can substantially strengthen the paper.
     
 - Tabby: Tabular Adaptation for Language Models \n
     Under Review \n
     *Story* \n
-    -- One of my prof's lab mate recommended my name to Sonia (first author) who was looking for someone who can help with empirical experimentation stuff. And that actually turned out to be good for me as I involved to my best capacity in this project at my first submission. \n
+    -- One of Fred's student recommended my name to Sonia (first author) who was looking for someone who can help with empirical experimentation stuff. And that actually turned out to be good for me as I involved to my best capacity in this project at my first submission. \n
     -- Unfortunately, it was rejected at ICLR 2025 with ratings 531 [https://openreview.net/forum?id=2RNGX3iTr6 (OpenReview)]. As we were aware of the shortcomings, it was understandable and we beefed up the experiments and writing.
 
 - RICA^2: Rubric-Informed, Calibrated Assessment of Actions \n
@@ -57,8 +57,9 @@ I am sorry but I don't have any particular advice if you are looking for one. Ne
 - The Cost of Compression: Investigating the Impact of Compression on
 Parametric Knowledge in Language Models \n
     *Story* \n
-    -- My first author paper. Was grateful to Makesh who actually introduced me to NLP and LLMs. We managed to bring a submission with just 5 months of work. As Makesh was already doing his full-time he was able to help me with writing and that was very helpful as I learned a lot of skills (whatever I used to write in 6 hrs, he comes and polishes in a great way in just 30min) \n
-    -- This was my first submission with Fred and helped me to establish trust as a researcher and lay road for the next ones.
+    -- My first author paper at a reputable conference. I was out of touch with ML field for appx 2 years and was truly grateful to Makesh who actually introduced me to NLP and LLMs at right time. We managed to bring a submission with just 5 months of work with me leading the work. As Makesh was already doing his full-time he was able to help me with writing and that was very helpful as I learned a lot of skills (whatever I used to write in 6 hrs, he comes and polishes in a great way in just 30min) \n
+    -- This was my first submission with Fred which went through EMNLP 2023 Findings with soundness ratings 233 [https://openreview.net/forum?id=hNSbSaD1WC (OpenReview)]. 
+    -- This paper helped me to establish trust as a researcher and lay road for the next ones. And also helped to get an intern at Amazon.
 
 - Enhancing Cartographic Design using Artificial Neural Network: A Geometric Approach for Map Generalization \n
     *Story* \n
@@ -79,5 +80,5 @@ Parametric Knowledge in Language Models \n
 - Android Based Control of Transmission line Robot for Traversing Through Straight line and Crossing of Tower Junctions \n
     International Journal of Innovative Technology and Exploring Engineering (IJITEE), Volume-8 Issue-6, April 2019. \n
     *Story* \n
-    -- I collaborated with a PhD student at the Robotics lab and worked part-time for ~2years on this project developing circuits. That finally resulted in a journal publication. \n
-    -- After 5years, when I reflect, I honestly feel this journal is not reputable, not my best work and the quality of paper can be improved quite a lot. And I might have actually been better if I got involved in other projects as well (I had to forgo some interesting robotics competition because of overlapping)
+    -- I collaborated with a PhD student at the Robotics lab and worked part-time for appx 2years on this project developing circuits to control the robot. That finally resulted in a journal publication and a demo in real-field. \n
+    -- After 5 years, when I reflect, I honestly feel this journal is not reputable, not my best work and the quality of paper can be improved quite a lot. And I might have actually been better if I got involved in other projects as well to expand my learning (eg: I had to forgo some interesting robotics competition)
