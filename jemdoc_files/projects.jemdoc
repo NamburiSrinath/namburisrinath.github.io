@@ -1,5 +1,7 @@
 # jemdoc: menu{MENU}{projects.html}
 
+These are the projects I worked during my Undergraduate. Refer [profile.html my profile] page for more recent work including Masters.
+
 == Object classification, detection and tracking for autonomous vehicle navigation in Indian road scenarios
 Worked on algorithms such as YOLO, R-CNN to detect, classify and track objects like car, pedestrian etc. Estimated the velocity of vehicles present in a video. Worked on KITTI LiDAR to get performance analysis of algorithms such as ``Gaussian Mixture Models",``Fast Segmentation". Created a dataset suitable for Indian roads which can be used for future research towards the development of autonomous vehicles in India.
 
