@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{publications.html}
 
 = Research
-I got privileged to collaborate with several folks over the years who shaped my research journey, especially during my Masters at UW-Madison. I enjoy doing research and below is the list of publications and folks I am grateful for for their guidance and inputs :)
+I got privileged to collaborate with several folks over the years who shaped my research journey, especially during my Masters at UW-Madison. I enjoy doing research and below is the list of publications and folks I am grateful for their guidance and inputs :)
 
 === Mentors/collaborators
 - [https://harit7.github.io/ Harit Vishwakarma]
@@ -13,6 +13,8 @@ I got privileged to collaborate with several folks over the years who shaped my 
 - [https://gangaraju09.github.io/Portfolio/ Ramakrishna Raju]
 - [https://www.linkedin.com/in/makeshsreedhar/ Makesh Narsimhan Sreedhar]
 - [https://www.linkedin.com/in/shruthicm/ Shruthi CM]
+
+Checkout [researchjourney.jemdoc Research Journey (Unfiltered)] page to understand my research story.
 
 == Publications
 - Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain) \n
