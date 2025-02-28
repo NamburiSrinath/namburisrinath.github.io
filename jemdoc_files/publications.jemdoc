@@ -1,7 +1,18 @@
 # jemdoc: menu{MENU}{publications.html}
 
 = Research
-I got privileged to collaborate with several folks over the years, especially during my Masters at UW-Madison. I enjoy doing research and below is the list of publications I've collaborated with.
+I got privileged to collaborate with several folks over the years who shaped my research journey, especially during my Masters at UW-Madison. I enjoy doing research and below is the list of publications and folks I am grateful for for their guidance and inputs :)
+
+=== Mentors/collaborators
+- [https://harit7.github.io/ Harit Vishwakarma]
+- [https://nick11roberts.science/ Nicholas Roberts]
+- [https://abrarmajeedi.github.io/ Abrar Majeedi]
+- [https://socromp.github.io/ Sonia Cromp]
+- [https://sites.google.com/view/subbareddyoota300/home?authuser=0 Subba Reddy Oota]
+- [https://sidrcs.github.io/maps/index.html Siddharth Ramavajjala]
+- [https://gangaraju09.github.io/Portfolio/ Ramakrishna Raju]
+- [https://www.linkedin.com/in/makeshsreedhar/ Makesh Narsimhan Sreedhar]
+- [https://www.linkedin.com/in/shruthicm/ Shruthi CM]
 
 == Publications
 - Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain) \n
@@ -31,7 +42,7 @@ I got privileged to collaborate with several folks over the years, especially du
 
 - Tabby: Tabular Adaptation for Language Models \n
     Sonia Cromp, *Satya Sai Srinath Namburi GNVV*, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala \n
-    NeurIPS 2024 Workshop on Table Representation Learning (TRL)
+    NeurIPS 2024 Workshop on Table Representation Learning (TRL) \n
     Under Review
 
 - RICA^2: Rubric-Informed, Calibrated Assessment of Actions \n
