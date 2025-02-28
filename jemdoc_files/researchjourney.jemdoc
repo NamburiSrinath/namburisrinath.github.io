@@ -1,19 +1,23 @@
 # jemdoc: menu{MENU}{researchjourney.html}
 
 = Research Journey (Unfiltered)
-If you landed to this page, it means you are interested to know more about "How to build a research profile?" or to know about my journey. Please refer to [publications.html publications page] for actual resources as this page is more about the story behind the publications.
+Please refer to [publications.html publications page] for actual resources as this page is more about the story behind the publications.
 
-Truth be told, I am not the right guy to get inspiration from. I have this inferior complex most of the times and while I don't compare with others, I always look high of my peer accomplishments and try to get inspiration and push myself harder (sometimes hurting!) to improve myself and my skills. 
+If you landed to this page, it means you are interested to know more about "How to build a research profile?" or to know about my journey. Just remember that when you look at one's resume and feel awe on their achievements, there'll a similar journey but not many document in this fashion; so I wanted to bring my version out there so someone might be inspired or at the least informed.
 
-That being said, there's a lot of *serendipity* and *perseverance* that goes on in building a research profile as it's not everyone's cup of tea. The *ability to handle rejections* is a true skill that a researcher will develop over the course of one's journey. Occasionally, I take break from all kinds of work. And my friends (who are fellow researchers) always suggest to *focus on building skills* and *doing good work* rather than targetting for a publication as a good work eventually results in a good paper (or a good patent, good research blog post). While I agree to his advice, given this fast-paced field, the sheer amount of pressure and expectations being built around the community makes it even more difficult to stay at top of the field.
+Truth be told, I am not the right guy to get inspiration from. I have this inferior complex most of the times and while I don't compare with others most of the times, I always look high of my peers and try to get inspired and push myself harder to improve myself and my skills (and sometimes pushing harder will hurt mentally, emotionally and physically!).
 
-I am sorry but I don't have any particular advice if you are looking for one. Neither am I qualified enough to provide any such advice. I made this page so at a bare minimum:
-- It should serve as a gentle reminder of the journey that I went through to become who I am now.
+That being said, there's a lot of *serendipity* and *perseverance* that goes on in building a research profile as it's not everyone's cup of tea. The *ability to handle rejections* is a true skill that a researcher will develop over the course of one's journey. Occasionally, I take break from all kinds of work. And my friends (who are fellow researchers) always suggest to *focus on building skills* and *doing good work* rather than targetting for a publication as a good work eventually results in a good paper (or a good patent, good research blog post). While I agree to his advice, given this fast-paced field, the sheer amount of pressure and expectations being built around the community makes it even more difficult to stay at top of the field. In short, stress is real and unavoidable at situations; read [https://medium.com/@felixhill/200bn-weights-of-responsibility-da85a44a2c5e Felix story] from Google DeepMind for a more mature perspective. 
+
+I am sorry but I don't have any particular advice if you are looking for one other than `You, your health comes first`. Neither am I qualified enough to provide any such advice as I consider myself inexperienced. 
+
+I made this page to serve at a bare minimum:
+- A reflection of the journey that I went through to become who I am now.
 - To show how perseverance and serendipity is very important in building an overall profile.
 - To be grateful for all the things that happened along my journey and serve as a motivation.
-- To keep track of my research journey (and it might help someone out there!!)
+- Maybe someone out there might get some takeaways/motivation from this page!
 
-*Note:* As such, I wanted to keep the unfiltered, raw truth version which won't be rosy. Obviously, this will be heavily filtered in professional resume (which I believe is the case of almost everyone).
+*Note:* As such, I wanted to keep the unfiltered, raw truth version which won't be rosy. Obviously, this will be heavily filtered in professional resume (which is the case of almost everyone).
 
 == Publications
 - Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain) \n
@@ -24,7 +28,7 @@ I am sorry but I don't have any particular advice if you are looking for one. Ne
 - Pearls from Pebbles: Improved Confidence Functions for Auto-labeling \n
   *Story* \n
   -- I was lucky to onboard this while talking with Harit (first author) on a different project. When I joined, most of the work was already done by him as he built from his previous project and I helped with experimentations. An interesting note - he was my TA in my first year of Masters. \n
-  -- Our initial submission was rejected at ICML 2024 with ratings 6664 [https://openreview.net/forum?id=3E6Aljrz2k (OpenReview)] \n
+  -- Our initial submission was rejected at ICML 2024 with ratings 6664 [https://openreview.net/forum?id=3E6Aljrz2k (OpenReview)]. \n
   -- Finally, with major revisions (beefing up experiments and rewriting), it went through NeurIPS 2024 with ratings 46678 [https://openreview.net/forum?id=96gXvFYWSE (OpenReview)]
 
 - PabLO: Improving Semi-Supervised Learning with Pseudolabeling Optimization \n
@@ -64,13 +68,13 @@ Parametric Knowledge in Language Models \n
 - Enhancing Cartographic Design using Artificial Neural Network: A Geometric Approach for Map Generalization \n
     *Story* \n
     -- Siddharth and RamaKrishna are my neighbours and some funny discussions on integrating ML to cartography got converted to a presentation at NACIS; a cartography conference. \n
-    -- I have a minor regret that we didn't follow-up after the presentation and  convert this to a paper.
+    -- I have a regret that we didn't follow-up after the presentation and  convert this to a paper.
 
 - NITCAD - Developing an object detection, classification and stereovision dataset for autonomous navigation in Indian roads \n
     Third International Conference on Computing and Network Communications (CoCoNet), 2019. \n
     *Story* \n
     -- This was part of my Bachelors thesis and my first ever submission, got rejected. We made some trivial errors in submission (like misusing the terms detection vs classification). \n
-    -- Now that I reflect, this paper if put in the right way would have a significant media coverage and impact as datasets are sort of rare!. I believe the study can be presented much better.
+    -- Now that I reflect, if I did in the right way, this would have a significant media coverage and impact as datasets are sort of rare at that time!. I believe the study can be presented much better and analysis can be made solid even at that time (transformers came in 2017 and this was roughly 15 months after that!).
     
 - Stereo Vision Based Speed Estimation for Autonomous Driving \n
     18th International Conference on Information Technology (ICIT), 2019. \n 
@@ -81,4 +85,4 @@ Parametric Knowledge in Language Models \n
     International Journal of Innovative Technology and Exploring Engineering (IJITEE), Volume-8 Issue-6, April 2019. \n
     *Story* \n
     -- I collaborated with Shruti, a PhD student at the Robotics lab and worked part-time for appx 2years on this project developing circuits and building app to control the robot. That finally resulted in a journal publication and a demo in real-field. \n
-    -- Now that I reflect, I honestly feel this journal is not reputable, not my best work and the quality of paper can be improved quite a lot. And I might have actually been better if I got involved in other projects as well to expand my learning (eg: I had to forgo some interesting robotics competition)
+    -- Now that I reflect, I honestly feel this journal is not reputable, not my best work and the quality of paper can be improved quite a lot. And I might have learned more if I got involved in other projects in parallel rather than focusing on just one project for roughly 3 years (eg: I had to forgo some interesting robotics competition)
