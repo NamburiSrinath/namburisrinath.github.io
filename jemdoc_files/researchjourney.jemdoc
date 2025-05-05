@@ -32,10 +32,10 @@ I made this page to serve at a bare minimum:
   -- Finally, with major revisions (beefing up experiments and rewriting), it went through NeurIPS 2024 with ratings 46678 [https://openreview.net/forum?id=96gXvFYWSE (OpenReview)]
 
 - PabLO: Improving Semi-Supervised Learning with Pseudolabeling Optimization \n
-  Under Review \n
   *Story* \n
   -- This was also with Harit, where we made an initial submission in just 3 months of work along with our resubmission of previous work (Pearls from Pebbles). Unfortunately, this submission to NeurIPS 2024 got rejected with ratings 3345 [https://openreview.net/forum?id=o76ZM9rH3r (OpenReview)]. \n
   -- Was unable to resubmit at ICLR 2025 as all the authors were busy with other priorities. \n
+  -- With major revisions and rewriting, we submitted to ICML 2025 and the initial reviews are 2223. But the rebuttal went very well (which happens rarely!) and the ratings changed to 2333 and thus accepted to ICML2025; hurrayy!!
   
 - Pretrained Hybrids with MAD Skills \n
     Under Review \n
@@ -50,6 +50,7 @@ I made this page to serve at a bare minimum:
     *Story* \n
     -- One of Fred's student recommended my name to Sonia (first author) who was looking for someone who can help with empirical experimentation stuff. And that actually turned out to be good for me as I involved to my best capacity in this project at my first submission. \n
     -- Unfortunately, it was rejected at ICLR 2025 with ratings 135 [https://openreview.net/forum?id=2RNGX3iTr6 (OpenReview)]. As we were aware of the shortcomings, it was quite understandable.
+    -- With major revisions, we submitted to ICML 2025; received scores of 2223, and the reviews during rebuttal changed 2223 -> 2233 -> 2223 and it finally got rejected :( But one thing I personally liked this time was that the AC engaged with our paper and raised very interesting points which improved the quality of our paper! 
 
 - RICA^2: Rubric-Informed, Calibrated Assessment of Actions \n
     *Story* \n
@@ -57,6 +58,12 @@ I made this page to serve at a bare minimum:
     -- We dropped the submission at last minute to NeurIPS 2023 as we realized that quality of paper can be improved substantially \n
     -- Rejected at CVPR 2024 with ratings 223 [https://openreview.net/forum?id=VjlKSI5uUY (OpenReview)] \n 
     -- With substantial revision, it got accepted to ECCV 2024 with ratings (2 BA, 1 WA, 1 SA)
+
+- LETS Forecast: Learning Embedology for Time Series Forecasting \n
+    *Story* \n
+    -- Continued collaboration with Abrar after the RICA project!. \n
+    -- We dropped the submission at last minute to ICLR 2025 as Yin felt it can be improved a lot and there are minor issues with current results; even though we pushed a lot to finish it on time \n
+    -- Post ICLR 2025, we kept on improving the paper and submitted to ICML 2025, the ratings were 2233 and after rebuttal it went to 2333 and got accepted!!
     
 - The Cost of Compression: Investigating the Impact of Compression on
 Parametric Knowledge in Language Models \n
