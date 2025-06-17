@@ -23,18 +23,18 @@ Checkout [researchjourney.html Research Journey (Unfiltered)] page to understand
 - Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in the Brain \n
   Subba Reddy Oota, Khushbu Pahwa, Prachi Jindal, *Satya Sai Srinath Namburi*, Maneesh Singh, Tanmoy Chakraborty, Bapi S. Raju, Manish Gupta \n
   Under Review \n
-  [Arxiv https://arxiv.org/abs/2506.08277]
+  [https://arxiv.org/abs/2506.08277 Arxiv]
 
 - R&B: Domain Regrouping and Data Mixture Balancing for Efficient Foundation Model Training \n
-  ICML 2025 Workshop on [DataWorld: Unifying Data Curation Frameworks Across Domains https://dataworldicml2025.github.io/] \n
-  ICML 2025 Workshop on [Data in Generative Models - The Bad, the Ugly, and the Greats https://icml2025digbugs.github.io/] \n
+  ICML 2025 Workshop on [https://dataworldicml2025.github.io/ DataWorld: Unifying Data Curation Frameworks Across Domains] \n
+  ICML 2025 Workshop on [https://icml2025digbugs.github.io/ Data in Generative Models - The Bad, the Ugly, and the Greats] \n
   Under Review \n
-  [Arxiv https://arxiv.org/abs/2505.00358]
+  [https://arxiv.org/abs/2505.00358 Arxiv]
 
 - LETS Forecast: Learning Embedology for Time Series Forecasting \n
   Abrar Majeedi, Viswanatha Reddy Gajjala, *Satya Sai Srinath Namburi GNVV*, Nada Magdi Elkordi, Yin Li \n
   International Conference on Machine Learning (ICML), 2025 \n
-  [Arxiv https://arxiv.org/abs/2506.06454] | [https://abrarmajeedi.github.io/deep_edm/ Project Page] | [https://github.com/abrarmajeedi/DeepEDM Github Code]
+  [https://arxiv.org/abs/2506.06454 Arxiv] | [https://abrarmajeedi.github.io/deep_edm/ Project Page] | [https://github.com/abrarmajeedi/DeepEDM Github Code]
 
 - PabLO: Improving Semi-Supervised Learning with Pseudolabeling Optimization \n
   Harit Vishwakarma, Reid (Yi) Chen, *Srinath Namburi*, Sui Jiet Tay, Ramya K. Vinayak, Frederic Sala \n
@@ -51,7 +51,7 @@ Checkout [researchjourney.html Research Journey (Unfiltered)] page to understand
   Harit Vishwakarma, Reid (Yi) Chen, Sui Jiet Tay, *Srinath Namburi*, Frederic Sala, Ramya Korlakai Vinayak \n
   Neural Information Processing Systems (NeurIPS), 2024 \n
   ICML 2024 Workshop on Data-centric Machine Learning (DMLR), 2024 \n
-  ICML 2025 Workshop on [DataWorld: Unifying Data Curation Frameworks Across Domains https://dataworldicml2025.github.io/] \n
+  ICML 2025 Workshop on [https://dataworldicml2025.github.io/ DataWorld: Unifying Data Curation Frameworks Across Domains] \n
   [https://openreview.net/forum?id=96gXvFYWSE OpenReview] | [https://arxiv.org/pdf/2404.16188 Arxiv] | [https://github.com/harit7/TBAL-Colander-NeurIPS-24 Github Code] | [./images/research/ifds-tbal-colander-1.1.pdf Slides] | [https://harit7.github.io/colander/ Project Website]
 
 - Pretrained Hybrids with MAD Skills \n
@@ -66,7 +66,7 @@ Checkout [researchjourney.html Research Journey (Unfiltered)] page to understand
     Sonia Cromp, *Satya Sai Srinath Namburi GNVV*, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala \n
     NeurIPS 2024 Workshop on Table Representation Learning (TRL) \n
     Under Review \n
-    [Arxiv https://arxiv.org/abs/2503.02152] | [https://sprocketlab.github.io/posts/2025/02/tabby/ Blog] | [https://github.com/soCromp/tabby Github Code]
+    [https://arxiv.org/abs/2503.02152 Arxiv] | [https://sprocketlab.github.io/posts/2025/02/tabby/ Blog] | [https://github.com/soCromp/tabby Github Code]
 
 - RICA^2: Rubric-Informed, Calibrated Assessment of Actions \n
     Abrar Majeedi, Viswanatha Reddy Gajjala, *Satya Sai Srinath Namburi GNVV*, Yin Li \n
@@ -113,7 +113,7 @@ May 2025, Jan 2025, June 2024, December 2023
 *Workshops*
 - Long Context Foundational Models ([https://longcontextfm.github.io/ LCFM]) at ICML 2025. \n
 - Efficient Systems for Foundation Models ([https://es-fomo.com/ ES-FoMo-II]) at ICML 2024. \n
-- Efficient Natural Language and Speech Processing ([https://neurips2024-enlsp.github.io/index.html#technical_committee ENLSP]) at NeurIPS 2023, 2024. \n
+- Efficient Natural Language and Speech Processing ([https://neurips2024-enlsp.github.io/index.html\#technical\_committee ENLSP]) at NeurIPS 2023, 2024. \n
 - Algorithmic Fairness through the Lens of Metrics and Evaluation ([https://www.afciworkshop.org/ AFME]) at NeurIPS 2022, 2023, 2024.
 
 
