@@ -40,7 +40,7 @@ Checkout [researchjourney.html Research Journey (Unfiltered)] page to understand
   Harit Vishwakarma, Reid (Yi) Chen, *Srinath Namburi*, Sui Jiet Tay, Ramya K. Vinayak, Frederic Sala \n
   International Conference on Machine Learning (ICML), 2025 \n
   NeurIPS 2024 Workshop on Self-Supervised Learning - Theory and Practice, 2024 \n
-  ICML 2024 Workshop on Data-centric Machine Learning (DMLR), 2024 \n
+  ICML 2024 Workshop on [https://dmlr.ai/cfp-icml24/ Data-centric Machine Learning (DMLR)] \n
 
 - Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain) \n
   Subba Reddy Oota, Akshett Jindal, Ishani Mondal, Khushbu Pahwa, *Satya Sai Srinath Namburi*, Manish Shrivastava, Maneesh Singh, Bapi S. Raju, Manish Gupta \n
@@ -50,21 +50,21 @@ Checkout [researchjourney.html Research Journey (Unfiltered)] page to understand
 - Pearls from Pebbles: Improved Confidence Functions for Auto-labeling \n
   Harit Vishwakarma, Reid (Yi) Chen, Sui Jiet Tay, *Srinath Namburi*, Frederic Sala, Ramya Korlakai Vinayak \n
   Neural Information Processing Systems (NeurIPS), 2024 \n
-  ICML 2024 Workshop on Data-centric Machine Learning (DMLR), 2024 \n
+  ICML 2024 Workshop on [https://dmlr.ai/cfp-icml24/ Data-centric Machine Learning (DMLR)] \n
   ICML 2025 Workshop on [https://dataworldicml2025.github.io/ DataWorld: Unifying Data Curation Frameworks Across Domains] \n
   [https://openreview.net/forum?id=96gXvFYWSE OpenReview] | [https://arxiv.org/pdf/2404.16188 Arxiv] | [https://github.com/harit7/TBAL-Colander-NeurIPS-24 Github Code] | [./images/research/ifds-tbal-colander-1.1.pdf Slides] | [https://harit7.github.io/colander/ Project Website]
 
 - Pretrained Hybrids with MAD Skills \n
     Nicholas Roberts, Samuel Guo, Zhiqi Gao, *Satya Sai Srinath Namburi GNVV*, Sonia Cromp, Chengjun Wu, Chengyu Duan, Frederic Sala. \n
-    ICML 2024 Long-Context Foundation Models (LCFM) Workshop. \n
-    ICML 2024 Next Generation of Sequence Modeling Architectures (NGSM) Workshop. \n
-    ICML 2024 Efficient Systems for Foundation Models (ES-FoMo) Workshop. \n
-    ICML 2024 Workshop on Foundation Models in the Wild. \n
+    ICML 2024 [https://longcontextfm.github.io/ Long-Context Foundation Models (LCFM) Workshop.] \n
+    ICML 2024 [https://sites.google.com/view/ngsmworkshop Next Generation of Sequence Modeling Architectures (NGSM) Workshop.] \n
+    ICML 2024 [https://es-fomo.com/ Efficient Systems for Foundation Models (ES-FoMo) Workshop.] \n
+    ICML 2024 Workshop on [https://fm-wild-community.github.io/index_2024.html Foundation Models in the Wild.] \n
     [https://arxiv.org/abs/2406.00894 Arxiv]
 
 - Tabby: Tabular Adaptation for Language Models \n
     Sonia Cromp, *Satya Sai Srinath Namburi GNVV*, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala \n
-    NeurIPS 2024 Workshop on Table Representation Learning (TRL) \n
+    NeurIPS 2024 Workshop on [https://table-representation-learning.github.io/NeurIPS2024/ Table Representation Learning (TRL)] \n
     Under Review \n
     [https://arxiv.org/abs/2503.02152 Arxiv] | [https://sprocketlab.github.io/posts/2025/02/tabby/ Blog] | [https://github.com/soCromp/tabby Github Code]
 
