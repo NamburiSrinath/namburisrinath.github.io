@@ -20,7 +20,7 @@ I got privileged to collaborate with several folks over the years who shaped my 
 
 Checkout [researchjourney.html Research Journey (Unfiltered)] page to understand my research story.
 
-[C] - Conference, [W] - Workshop, [J] - Journal
+(C) - Conference, (W) - Workshop, (J) - Journal
 == Publications
 - Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in the Brain \n
   Subba Reddy Oota, Khushbu Pahwa, Prachi Jindal, *Satya Sai Srinath Namburi*, Maneesh Singh, Tanmoy Chakraborty, Bapi S. Raju, Manish Gupta \n
@@ -28,78 +28,79 @@ Checkout [researchjourney.html Research Journey (Unfiltered)] page to understand
   [https://arxiv.org/abs/2506.08277 Arxiv]
 
 - R&B: Domain Regrouping and Data Mixture Balancing for Efficient Foundation Model Training \n
-  [W, **Oral**] ICML 2025 Workshop on [https://dataworldicml2025.github.io/ DataWorld: Unifying Data Curation Frameworks Across Domains] \n
-  [W] ICML 2025 Workshop on [https://icml2025digbugs.github.io/ Data in Generative Models - The Bad, the Ugly, and the Greats] \n
+  (W, **Oral**) ICML 2025 Workshop on [https://dataworldicml2025.github.io/ DataWorld: Unifying Data Curation Frameworks Across Domains] \n
+  (W) ICML 2025 Workshop on [https://icml2025digbugs.github.io/ Data in Generative Models - The Bad, the Ugly, and the Greats] \n
   Under Review \n
   [https://arxiv.org/abs/2505.00358 Arxiv]
 
 - LETS Forecast: Learning Embedology for Time Series Forecasting \n
   Abrar Majeedi, Viswanatha Reddy Gajjala, *Satya Sai Srinath Namburi GNVV*, Nada Magdi Elkordi, Yin Li \n
-  [C] International Conference on Machine Learning (ICML), 2025 \n
-  [https://arxiv.org/abs/2506.06454 Arxiv] | [https://abrarmajeedi.github.io/deep_edm/ Project Page] | [https://github.com/abrarmajeedi/DeepEDM Github Code]
+  (C) International Conference on Machine Learning (ICML), 2025 \n
+  [https://arxiv.org/abs/2506.06454 Arxiv] | [https://abrarmajeedi.github.io/deep_edm/ Project Page (has links for Youtube video and poster)] | [https://github.com/abrarmajeedi/DeepEDM Github] | [https://openreview.net/forum?id=LLk1qYQatJ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions) OpenReview]
 
 - Rethinking Confidence Scores and Thresholds in Pseudolabeling-based SSL \n
   Harit Vishwakarma, Reid (Yi) Chen, *Srinath Namburi*, Sui Jiet Tay, Ramya K. Vinayak, Frederic Sala \n
-  [C] International Conference on Machine Learning (ICML), 2025 \n
-  [W] NeurIPS 2024 Workshop on Self-Supervised Learning - Theory and Practice, 2024 \n
-  [W] ICML 2024 Workshop on [https://dmlr.ai/cfp-icml24/ Data-centric Machine Learning (DMLR)] \n
+  (C) International Conference on Machine Learning (ICML), 2025 \n
+  (W) NeurIPS 2024 Workshop on Self-Supervised Learning - Theory and Practice, 2024 \n
+  (W) ICML 2024 Workshop on [https://dmlr.ai/cfp-icml24/ Data-centric Machine Learning (DMLR)] \n
+  [https://openreview.net/forum?id=w4c5bLkhsz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions) OpenReview] | [https://openreview.net/pdf?id=w4c5bLkhsz Paper] | [https://icml.cc/virtual/2025/poster/43641 ShortTalk] | [https://github.com/harit7/PabLO-SSL Github]
 
 - Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain) \n
   Subba Reddy Oota, Akshett Jindal, Ishani Mondal, Khushbu Pahwa, *Satya Sai Srinath Namburi*, Manish Shrivastava, Maneesh Singh, Bapi S. Raju, Manish Gupta \n
-  [C] International Conference on Learning Representations (ICLR), 2025 \n
+  (C) International Conference on Learning Representations (ICLR), 2025 \n
   [https://openreview.net/forum?id=xkgfLXZ4e0 OpenReview] | [https://arxiv.org/abs/2505.20029 Arxiv]
   
 - Pearls from Pebbles: Improved Confidence Functions for Auto-labeling \n
   Harit Vishwakarma, Reid (Yi) Chen, Sui Jiet Tay, *Srinath Namburi*, Frederic Sala, Ramya Korlakai Vinayak \n
-  [C] Neural Information Processing Systems (NeurIPS), 2024 \n
-  [W] ICML 2024 Workshop on [https://dmlr.ai/cfp-icml24/ Data-centric Machine Learning (DMLR)] \n
-  [W] ICML 2025 Workshop on [https://dataworldicml2025.github.io/ DataWorld: Unifying Data Curation Frameworks Across Domains] \n
+  (C) Neural Information Processing Systems (NeurIPS), 2024 \n
+  (W) ICML 2024 Workshop on [https://dmlr.ai/cfp-icml24/ Data-centric Machine Learning (DMLR)] \n
+  (W) ICML 2025 Workshop on [https://dataworldicml2025.github.io/ DataWorld: Unifying Data Curation Frameworks Across Domains] \n
   [https://openreview.net/forum?id=96gXvFYWSE OpenReview] | [https://arxiv.org/pdf/2404.16188 Arxiv] | [https://github.com/harit7/TBAL-Colander-NeurIPS-24 Github Code] | [./images/research/ifds-tbal-colander-1.1.pdf Slides] | [https://harit7.github.io/colander/ Project Website]
 
 - Pretrained Hybrids with MAD Skills \n
     Nicholas Roberts, Samuel Guo, Zhiqi Gao, *Satya Sai Srinath Namburi GNVV*, Sonia Cromp, Chengjun Wu, Chengyu Duan, Frederic Sala. \n
-    [C] Conference on Language Modeling, COLM 2025
-    [W] ICML 2024 [https://longcontextfm.github.io/ Long-Context Foundation Models (LCFM) Workshop.] \n
-    [W] ICML 2024 [https://sites.google.com/view/ngsmworkshop Next Generation of Sequence Modeling Architectures (NGSM) Workshop.] \n
-    [W] ICML 2024 [https://es-fomo.com/ Efficient Systems for Foundation Models (ES-FoMo) Workshop.] \n
-    [W] ICML 2024 Workshop on [https://fm-wild-community.github.io/index_2024.html Foundation Models in the Wild.] \n
-    [https://arxiv.org/abs/2406.00894 Arxiv]
+    (C) Conference on Language Modeling, COLM 2025 \n
+    (W) ICML 2024 [https://longcontextfm.github.io/ Long-Context Foundation Models (LCFM) Workshop.] \n
+    (W) ICML 2024 [https://sites.google.com/view/ngsmworkshop Next Generation of Sequence Modeling Architectures (NGSM) Workshop.] \n
+    (W) ICML 2024 [https://es-fomo.com/ Efficient Systems for Foundation Models (ES-FoMo) Workshop.] \n
+    (W) ICML 2024 Workshop on [https://fm-wild-community.github.io/index_2024.html Foundation Models in the Wild.] \n
+    [https://openreview.net/forum?id=8xSbwT3763#discussion OpenReview] | [https://arxiv.org/abs/2406.00894 Arxiv]
 
 - Tabby: Tabular Adaptation for Language Models \n
     Sonia Cromp, *Satya Sai Srinath Namburi GNVV*, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala \n
-    [W] NeurIPS 2024 Workshop on [https://table-representation-learning.github.io/NeurIPS2024/ Table Representation Learning (TRL)] \n
+    (W) NeurIPS 2024 Workshop on [https://table-representation-learning.github.io/NeurIPS2024/ Table Representation Learning (TRL)] \n
     Under Review \n
     [https://arxiv.org/abs/2503.02152 Arxiv] | [https://sprocketlab.github.io/posts/2025/02/tabby/ Blog] | [https://github.com/soCromp/tabby Github Code]
 
 - RICA^2: Rubric-Informed, Calibrated Assessment of Actions \n
     Abrar Majeedi, Viswanatha Reddy Gajjala, *Satya Sai Srinath Namburi GNVV*, Yin Li \n
-    [C] European Conference on Computer Vision (ECCV), 2024 \n
+    (C) European Conference on Computer Vision (ECCV), 2024 \n
     [https://abrarmajeedi.github.io/rica2_aqa/ Project Page] | [https://arxiv.org/abs/2408.02138 Arxiv]
 
 - The Cost of Compression: Investigating the Impact of Compression on
 Parametric Knowledge in Language Models \n
     *Satya Sai Srinath Namburi*, Makesh Sreedhar, Srinath Srinivasan, Frederic Sala \n
-    [C] Empirical Methods in Natural Language Processing (EMNLP Findings), 2023 \n
-    [W] NeurIPS 2023 Efficient Natural Language and Speech Processing (ENLSP) \n
+    (C) Empirical Methods in Natural Language Processing (EMNLP Findings), 2023 \n
+    (W) NeurIPS 2023 Efficient Natural Language and Speech Processing (ENLSP) \n
     [https://arxiv.org/abs/2312.00960 Arxiv] | [https://github.com/NamburiSrinath/LLMCompression Github Code]
 
 - Enhancing Cartographic Design using Artificial Neural Network: A Geometric Approach for Map Generalization \n
     Siddharth Ramavajjala, *Srinath Namburi*, Ramakrishna Gangaraju \n
-    [C] North American Cartographic Information Society (NACIS) \n
+    (C) North American Cartographic Information Society (NACIS) \n
     [https://www.youtube.com/watch?v=FXqDs84nXNQ Youtube] | [https://github.com/gangaraju09/map_generalisation_ml Github Code]
 
 - NITCAD - Developing an object detection, classification and stereovision dataset for autonomous navigation in Indian roads \n
     *Namburi GNVV Satya Sai Srinath*, Athul Zac Joseph, Ch. Lakshmi Priyanka, Malavika Nair M, S Umamaheswaran, Praveen Sankaran \n 
-    [C] Third International Conference on Computing and Network Communications (CoCoNet), 2019. \n
+    (C) Third International Conference on Computing and Network Communications (CoCoNet), 2019. \n
     [https://doi.org/10.1016/j.procs.2020.04.022 Paper] | [https://namburisrinath.medium.com/nitcad-an-object-detection-classification-and-stereo-vision-dataset-for-autonomous-navigation-f28d3fe5b7d9 Blog] | [https://docs.google.com/forms/d/e/1FAIpQLScv2QXTYy3jwiAlqC9ro-lR_4UhUaWtBDNYQ4jWLZ3eUv3nSA/viewform Google Form] (to access dataset) | [https://github.com/NamburiSrinath/NITCAD-dataset GitHub Code]
 
 - Stereo Vision Based Speed Estimation for Autonomous Driving \n
     S Umamaheswaran, Malavika Nair M, Athul Zac Joseph, *Namburi GNVV Satya Sai Srinath*, Ch. Lakshmi Priyanka, Praveen Sankaran \n
-    [C] 18th International Conference on Information Technology (ICIT), 2019. \n [https://ieeexplore.ieee.org/abstract/document/9031876 Paper] | [https://github.com/NamburiSrinath/NITCAD-dataset GitHub Code]
+    (C) 18th International Conference on Information Technology (ICIT), 2019. \n [https://ieeexplore.ieee.org/abstract/document/9031876 Paper] | [https://github.com/NamburiSrinath/NITCAD-dataset GitHub Code]
 
 - Android Based Control of Transmission line Robot for Traversing Through Straight line and Crossing of Tower Junctions \n
     Shruthi C M, *Namburi GNVV Satya Sai Srinath*, G Vijay Vamsi, Sudheer A P, Joy M L \n
-    [J] International Journal of Innovative Technology and Exploring Engineering (IJITEE), Volume-8 Issue-6, April 2019. \n
+    (J) International Journal of Innovative Technology and Exploring Engineering (IJITEE), Volume-8 Issue-6, April 2019. \n
     [https://www.ijitee.org/wp-content/uploads/papers/v8i6/F3889048619.pdf Paper] | [https://github.com/NamburiSrinath/Line-Inspection Github Code].
 
 == Service

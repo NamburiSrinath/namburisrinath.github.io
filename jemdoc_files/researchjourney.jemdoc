@@ -48,7 +48,7 @@ I made this page to serve at a bare minimum:
     -- Our first submission was rejected at NeurIPS 2024 with ratings 345 [https://openreview.net/forum?id=5to57WN28m (OpenReview)]. Even we were aware that the work can be strengthened. \n
     -- But the 2nd submission also got rejected at ICLR 2025 with ratings 356 [https://openreview.net/forum?id=rXrYdOtBfs (OpenReview)]. While we don't agree with all the reviews, that's the luck part of publication process. \n
     -- We didn't submit to ICML 2025 as we felt we can substantially strengthen the paper.
-    -- We ended up submitting to COLM 2025 with initial scores of 4666 and post rebuttal scores of 5666 and (luckily) getting accepted :). I meant lucky because another paper (R&B) with 777 got rejected in COLM 2025
+    -- We ended up submitting to COLM 2025 with initial scores of 4666 and post rebuttal scores of 5666 [https://openreview.net/forum?id=8xSbwT3763#discussion (OpenReview)] and (luckily) getting accepted :). I meant lucky because another paper (R&B) with 777 got rejected in COLM 2025
     
 - Tabby: Tabular Adaptation for Language Models \n
     Under Review \n
@@ -68,7 +68,7 @@ I made this page to serve at a bare minimum:
     *Story* \n
     -- Continued collaboration with Abrar after the RICA project!. \n
     -- We dropped the submission at last minute to ICLR 2025 as Yin felt it can be improved a lot and there are minor issues with current results; even though we pushed a lot to finish it on time \n
-    -- Post ICLR 2025, we kept on improving the paper and submitted to ICML 2025, the ratings were 2233 and after rebuttal it went to 2333 and got accepted!!
+    -- Post ICLR 2025, we kept on improving the paper and submitted to ICML 2025, the ratings were 2233 and after rebuttal it went to 2333 and got accepted [https://openreview.net/forum?id=LLk1qYQatJ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions) (OpenReview)]!!
     
 - The Cost of Compression: Investigating the Impact of Compression on
 Parametric Knowledge in Language Models \n
