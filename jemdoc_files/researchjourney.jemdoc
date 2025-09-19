@@ -20,6 +20,12 @@ I made this page to serve at a bare minimum:
 *Note:* As such, I wanted to keep the unfiltered, raw truth version which won't be rosy. Obviously, this will be heavily filtered in professional resume (which is the case of almost everyone).
 
 == Publications
+- Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in the Brain \n
+    *Story* \n
+    -- A continued collaboration with Subba (first author) following our meet from NeurIPS 2024. \n
+    -- This work is sorta relevant and following up on some of the findings from our [https://openreview.net/forum?id=xkgfLXZ4e0 (ICLR)] paper, and when submitted to NeurIPS 2025. The initial scores were 3445 and even with a good rebuttal and final scores being 3555 with average of 4.5/6 [https://openreview.net/forum?id=9dtSxhfk7w&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions) (OpenReview responses)], this got rejected :(.
+    -- This (along with R&B) is another example where just getting top scores won't matter and luck plays a role in deciding the fate of the venue.  
+
 - R&B: Domain Regrouping and Data Mixture Balancing for Efficient Foundation Model Training \n
     *Story* \n
     -- Albert works with Fred and in some common discussions found that he's working on a project area which I was interested in. So, I pinged and joined this project. 
@@ -48,7 +54,7 @@ I made this page to serve at a bare minimum:
     -- Our first submission was rejected at NeurIPS 2024 with ratings 345 [https://openreview.net/forum?id=5to57WN28m (OpenReview)]. Even we were aware that the work can be strengthened. \n
     -- But the 2nd submission also got rejected at ICLR 2025 with ratings 356 [https://openreview.net/forum?id=rXrYdOtBfs (OpenReview)]. While we don't agree with all the reviews, that's the luck part of publication process. \n
     -- We didn't submit to ICML 2025 as we felt we can substantially strengthen the paper.
-    -- We ended up submitting to COLM 2025 with initial scores of 4666 and post rebuttal scores of 5666 [https://openreview.net/forum?id=8xSbwT3763\#discussion (OpenReview)] and (luckily) getting accepted :). I meant lucky because another paper (R&B) with 777 got rejected in COLM 2025
+    -- We ended up submitting to COLM 2025 with initial scores of 4666 and post rebuttal scores of 5666 [https://openreview.net/forum?id=8xSbwT3763\#discussion (OpenReview)] and (luckily) getting accepted :). I meant lucky because another paper (R&B) with 777 got rejected in COLM 2025.
     
 - Tabby: Tabular Adaptation for Language Models \n
     Under Review \n
@@ -56,6 +62,7 @@ I made this page to serve at a bare minimum:
     -- One of Fred's student recommended my name to Sonia (first author) who was looking for someone who can help with empirical experimentation stuff. And that actually turned out to be good for me as I involved to my best capacity in this project at my first submission. \n
     -- Unfortunately, it was rejected at ICLR 2025 with ratings 135 [https://openreview.net/forum?id=2RNGX3iTr6 (OpenReview)]. As we were aware of the shortcomings, it was quite understandable.
     -- With major revisions, we submitted to ICML 2025; received scores of 2223, and the reviews during rebuttal changed 2223 -> 2233 -> 2223 and it finally got rejected :( But one thing I personally liked this time was that the AC engaged with our paper and raised very interesting points which improved the quality of our paper! 
+    -- We went with submitting to NeurIPS 2025 from feedback received at ICML, but got rejected with scores 2334 and average of 3/6. 
 
 - RICA^2: Rubric-Informed, Calibrated Assessment of Actions \n
     *Story* \n
