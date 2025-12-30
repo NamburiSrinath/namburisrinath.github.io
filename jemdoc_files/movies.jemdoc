@@ -1,9 +1,17 @@
 # jemdoc: menu{MENU}{movies.html}
 = TV Series
 
-Here, I catalogued all the TV series I've watched. There's plethora of movies and it's practically not possible to list those. By default I categorised into languages (and no particular order inside that). 
+Here, I catalogued all the (incomplete) TV series I've watched. There's plethora of movies and it's practically not possible to list those. By default I categorised into languages (and no particular order inside that). 
 
 == English
+~~~
+{}{img_left}{./images/movies/AlexaKatie.jpg}{}{250px}{}{}
+== Alexa & Katie
+==== Available on: Netflix
+==== Genre: (Comedy, Sitcom Drama)
+Alexa and Katie are best friends where Alexa is a high schooler living with cancer and Katie helps her every step of the way. The drama surrounding these friends and their families is fun and slightly emotional at times
+~~~
+
 ~~~
 {}{img_left}{./images/movies/modernfamily.jpg}{}{250px}{}{}
 == Modern Family
@@ -325,7 +333,23 @@ It revolves around 2 brothers and a child who lives in a beach house in Malibu. 
 [https://en.wikipedia.org/wiki/Two_and_a_Half_Men Wiki Page]
 ~~~
 
-== Hindi
+== Indian
+~~~
+{}{img_left}{./images/movies/fakes.jpeg}{}{250px}{}{}
+== Fakes (Farzi)
+==== Available on: Amazon Prime
+==== Genre: (Drama, Suspense Thriller)
+Shahid Kapoor, Vijay Sethupathy, Raashii and thriller!! What else does one need to watch? Story revolves around antagonist who's expert in making counterfeit money and protagonist on how he approaches to catch him. 
+~~~
+
+~~~
+{}{img_left}{./images/movies/kurukshethra.jpg}{}{250px}{}{}
+== Kurukshethra
+==== Available on: Netflix
+==== Genre: (Mythology)
+The 18 day fight of Mahabharatha, what led to it and the consequences of the fight is beautifully portrayed by this short series.
+~~~
+
 ~~~
 {}{img_left}{./images/movies/familyman.jpeg}{}{250px}{}{}
 == Family Man
@@ -386,7 +410,38 @@ This depicts about the life of a software guy, dedicating to all software engine
 [https://www.youtube.com/watch?v=JbBsqmKclXE&list=PLTB0eCoUXEraMJ3V8BH5iI4lOcciZ-UHI YouTube Playlist]
 ~~~
 
-== Telugu
+~~~
+{}{img_left}{./images/movies/air.jpg}{}{250px}{}{}
+== Dhootha
+==== Available on: Amazon Prime
+==== Genre: (Horror, Suspense Thriller)
+Naga Chaitanya at his best (and quite surprisingly great antagonist)!
+~~~
+
+~~~
+{}{img_left}{./images/movies/air.jpg}{}{250px}{}{}
+== Kumari Srimathi
+==== Available on: Amazon Prime
+==== Genre: (Drama, Comedy)
+Unorthodox (as it's setup in village background), funny and great one by Nithya Menon. Srimathi is a struggling woman in a village who sets to start a bar and restaurant to earn money and clear debts. 
+~~~
+
+~~~
+{}{img_left}{./images/movies/air.jpg}{}{250px}{}{}
+== AIR - All India Rankers
+==== Available on: Netflix
+==== Genre: (Drama, Comedy)
+Might be a bit slow at instances but relatable at lots of places. This one reminded of struggles during the intermediate days, the challenges faced and the emotions one carry!! 
+~~~
+
+~~~
+{}{img_left}{./images/movies/90s-biopic.jpeg}{}{250px}{}{}
+== 90's – A Middle Class Biopic
+==== Available on: Netflix
+==== Genre: (Drama, Comedy)
+Super fun, highly relatable to all the 90s kids out there. Excellent one, laughed very happily after long time
+~~~
+
 ~~~
 {}{img_left}{./images/movies/30weds21.jpeg}{}{250px}{}{}
 == 30 weds 21

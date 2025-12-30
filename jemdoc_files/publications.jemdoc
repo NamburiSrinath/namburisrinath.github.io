@@ -4,13 +4,12 @@
 I got privileged to collaborate with several folks over the years who shaped my research journey, especially during my Masters at UW-Madison. I enjoy doing research and am grateful for a lot of folks who shaped my journey and made it possible to who I am today. Below is the list of publications and folks I have collaborated with!
 
 === Mentors/collaborators
-- [https://harit7.github.io/ Harit Vishwakarma]
-- [https://nick11roberts.science/ Nicholas Roberts]
+Grateful for every single person from Fred's lab, especially [https://harit7.github.io/ Harit Vishwakarma], [https://nick11roberts.science/ Nicholas Roberts], [https://socromp.github.io/ Sonia Cromp], [https://www.albertge.com/ Albert Ge], [https://jzhao326.github.io/ Jitian Zhao], [https://ch-shin.github.io/ Changho Shin] for providing an opportunity to work on their papers.
+
+Others include (in no particular order):
+- [https://alexboyd-research.github.io/ Alex Boyd]
+- [https://andrewwarrington.github.io/ Andrew Warrington] 
 - [https://abrarmajeedi.github.io/ Abrar Majeedi]
-- [https://socromp.github.io/ Sonia Cromp]
-- [https://www.albertge.com/ Albert Ge]
-- [https://jzhao326.github.io/ Jitian Zhao]
-- [https://dyahadila.github.io/ Dyah Adila]
 - [https://sites.google.com/view/subbareddyoota300/home?authuser=0 Subba Reddy Oota]
 - [https://sidrcs.github.io/maps/index.html Siddharth Ramavajjala]
 - [https://gangaraju09.github.io/Portfolio/ Ramakrishna Raju]
@@ -22,13 +21,29 @@ Checkout [researchjourney.html Research Journey (Unfiltered)] page to understand
 
 (C) - Conference, (W) - Workshop, (J) - Journal
 == Publications
+- Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models \n
+  Subba Reddy Oota, Vijay Rowtula, Khushbu Pahwa, *Satya Sai Srinath Namburi GNVV*, Anant Khandelwal, Manish Gupta, Tanmoy Chakraborty, Bapi Raju Surampudi \n
+  Under Review
+
+- From Many Voices to One: Statistically Principled Aggregation of LLM Judges \n
+  Jitian Zhao, Changho Shin, Tzu-Heng Huang, *Srinath Namburi*, Frederic Sala \n
+  (W) NeurIPS 2025 workshop on [https://sites.google.com/view/llm-eval-workshop?pli=1 Evaluating the Evolving LLM Lifecycle]: enchmarks, Emergent Abilities, and Scaling \n
+  (W) NeurIPS 2025 workshop on [https://reliablemlworkshop.github.io/ Reliable ML from Unreliable Data] \n
+  Under Review \n
+  [https://openreview.net/pdf?id=Ou53DNvjx7 Workshop version]
+
+- Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs \n
+  *Satya Sai Srinath Namburi*, Alex James Boyd, Andrew Warrington \n
+  (W) [https://lock-llm.github.io/ Lock-LLM Workshop] at NeurIPS 2025.
+  [https://openreview.net/pdf?id=OkNfb8SmLh OpenReview] | [X https://x.com/srinath_namburi/status/1996314381093834887] | [https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17 Blogpost]
+
 - Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in the Brain \n
   Subba Reddy Oota, Khushbu Pahwa, Prachi Jindal, *Satya Sai Srinath Namburi*, Maneesh Singh, Tanmoy Chakraborty, Bapi S. Raju, Manish Gupta \n
   Under Review \n
   [https://arxiv.org/abs/2506.08277 Arxiv]
 
 - R&B: Domain Regrouping and Data Mixture Balancing for Efficient Foundation Model Training \n
-  Albert Ge, Tzu-Heng Huang, John Cooper, Avi Trost, Ziyi Chu, *Satya Sai Srinath Namburi GNVV*, Ziyang Cai, Kendall Park, Nicholas Roberts, Frederic Sala
+  Albert Ge, Tzu-Heng Huang, John Cooper, Avi Trost, Ziyi Chu, *Satya Sai Srinath Namburi GNVV*, Ziyang Cai, Kendall Park, Nicholas Roberts, Frederic Sala \n
   (W, **Oral**) ICML 2025 Workshop on [https://dataworldicml2025.github.io/ DataWorld: Unifying Data Curation Frameworks Across Domains] \n
   (W) ICML 2025 Workshop on [https://icml2025digbugs.github.io/ Data in Generative Models - The Bad, the Ugly, and the Greats] \n
   Under Review \n
@@ -37,14 +52,14 @@ Checkout [researchjourney.html Research Journey (Unfiltered)] page to understand
 - LETS Forecast: Learning Embedology for Time Series Forecasting \n
   Abrar Majeedi, Viswanatha Reddy Gajjala, *Satya Sai Srinath Namburi GNVV*, Nada Magdi Elkordi, Yin Li \n
   (C) International Conference on Machine Learning (ICML), 2025 \n
-  [https://arxiv.org/abs/2506.06454 Arxiv] | [https://abrarmajeedi.github.io/deep_edm/ Project Page] | [https://github.com/abrarmajeedi/DeepEDM Github] | [https://openreview.net/forum?id=LLk1qYQatJ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions) OpenReview]
+  [https://arxiv.org/abs/2506.06454 Arxiv] | [https://abrarmajeedi.github.io/deep_edm/ Project Page] | [https://github.com/abrarmajeedi/DeepEDM Github] | [https://openreview.net/forum?id=LLk1qYQatJ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions) OpenReview] | [https://medium.com/@namburisrinath/lets-forecast-learning-embedology-for-time-series-forecasting-6036891d05ae BlogPost]
 
 - Rethinking Confidence Scores and Thresholds in Pseudolabeling-based SSL \n
   Harit Vishwakarma, Reid (Yi) Chen, *Srinath Namburi*, Sui Jiet Tay, Ramya K. Vinayak, Frederic Sala \n
   (C) International Conference on Machine Learning (ICML), 2025 \n
   (W) NeurIPS 2024 Workshop on Self-Supervised Learning - Theory and Practice, 2024 \n
   (W) ICML 2024 Workshop on [https://dmlr.ai/cfp-icml24/ Data-centric Machine Learning (DMLR)] \n
-  [https://openreview.net/forum?id=w4c5bLkhsz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions) OpenReview] | [https://openreview.net/pdf?id=w4c5bLkhsz Paper] | [https://icml.cc/virtual/2025/poster/43641 ShortTalk] | [https://github.com/harit7/PabLO-SSL Github]
+  [https://openreview.net/forum?id=w4c5bLkhsz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions) OpenReview] | [https://openreview.net/pdf?id=w4c5bLkhsz Paper] | [https://icml.cc/virtual/2025/poster/43641 ShortTalk] | [https://github.com/harit7/PabLO-SSL Github] | [https://medium.com/@namburisrinath/rethinking-confidence-scores-and-thresholds-in-pseudolabeling-based-ssl-970820987a78 BlogPost]
 
 - Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain) \n
   Subba Reddy Oota, Akshett Jindal, Ishani Mondal, Khushbu Pahwa, *Satya Sai Srinath Namburi*, Manish Shrivastava, Maneesh Singh, Bapi S. Raju, Manish Gupta \n
@@ -65,18 +80,18 @@ Checkout [researchjourney.html Research Journey (Unfiltered)] page to understand
     (W) ICML 2024 [https://sites.google.com/view/ngsmworkshop Next Generation of Sequence Modeling Architectures (NGSM) Workshop.] \n
     (W) ICML 2024 [https://es-fomo.com/ Efficient Systems for Foundation Models (ES-FoMo) Workshop.] \n
     (W) ICML 2024 Workshop on [https://fm-wild-community.github.io/index_2024.html Foundation Models in the Wild.] \n
-    [https://openreview.net/forum?id=8xSbwT3763\#discussion OpenReview] | [https://arxiv.org/abs/2406.00894 Arxiv]
+    [https://openreview.net/forum?id=8xSbwT3763\#discussion OpenReview] | [https://arxiv.org/abs/2406.00894 Arxiv] | [https://medium.com/@namburisrinath/manticore-automated-hybrid-design-minus-pretraining-3c18d2bc34ca BlogPost]
 
 - Tabby: Tabular Adaptation for Language Models \n
     Sonia Cromp, *Satya Sai Srinath Namburi GNVV*, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala \n
+    (C) Transactions on Machine Learning Research (TMLR) 2026 \n
     (W) NeurIPS 2024 Workshop on [https://table-representation-learning.github.io/NeurIPS2024/ Table Representation Learning (TRL)] \n
-    Under Review \n
     [https://arxiv.org/abs/2503.02152 Arxiv] | [https://sprocketlab.github.io/posts/2025/02/tabby/ Blog] | [https://github.com/soCromp/tabby Github Code]
 
 - RICA^2: Rubric-Informed, Calibrated Assessment of Actions \n
     Abrar Majeedi, Viswanatha Reddy Gajjala, *Satya Sai Srinath Namburi GNVV*, Yin Li \n
     (C) European Conference on Computer Vision (ECCV), 2024 \n
-    [https://abrarmajeedi.github.io/rica2_aqa/ Project Page] | [https://arxiv.org/abs/2408.02138 Arxiv]
+    [https://abrarmajeedi.github.io/rica2_aqa/ Project Page] | [https://arxiv.org/abs/2408.02138 Arxiv] | [https://medium.com/@namburisrinath/rica²-rubric-informed-calibrated-assessment-of-actions-92b5715a9163 BlogPost]
 
 - The Cost of Compression: Investigating the Impact of Compression on
 Parametric Knowledge in Language Models \n
@@ -107,15 +122,16 @@ Parametric Knowledge in Language Models \n
 == Service
 Served as a reviewer for 
 - International Conference on Learning Representations (ICLR) \n
-2025
+2026, 2025
 - Association for the Advancement of Artificial Intelligence (AAAI) \n
 2025
 - ARR for Association for Computational Linguistics (ACL) \n
-May 2025, Jan 2025, June 2024, December 2023 
+May 2025, Jan 2025, June 2024 
 - Computer Vision and Pattern Recognition (CVPR) \n
-2025
+2026, 2025
 
 *Workshops*
+- Mechanistic Interpretability ([https://mechinterpworkshop.com/ MI]) at NeurIPS 2025. \n
 - Long Context Foundational Models ([https://longcontextfm.github.io/ LCFM]) at ICML 2025. \n
 - Efficient Systems for Foundation Models ([https://es-fomo.com/ ES-FoMo-II]) at ICML 2024. \n
 - Efficient Natural Language and Speech Processing ([https://neurips2024-enlsp.github.io/index.html\#technical\_committee ENLSP]) at NeurIPS 2023, 2024. \n
