@@ -6,7 +6,7 @@ I got privileged to collaborate with several folks over the years who shaped my 
 === Mentors/collaborators
 Grateful for every single person from Fred's lab, especially [https://harit7.github.io/ Harit Vishwakarma], [https://nick11roberts.science/ Nicholas Roberts], [https://socromp.github.io/ Sonia Cromp], [https://www.albertge.com/ Albert Ge], [https://jzhao326.github.io/ Jitian Zhao], [https://ch-shin.github.io/ Changho Shin] for providing an opportunity to work on their papers.
 
-Others include (in no particular order):
+Others (in no particular order):
 - [https://alexboyd-research.github.io/ Alex Boyd]
 - [https://andrewwarrington.github.io/ Andrew Warrington] 
 - [https://abrarmajeedi.github.io/ Abrar Majeedi]
@@ -34,8 +34,8 @@ Checkout [researchjourney.html Research Journey (Unfiltered)] page to understand
 
 - Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs \n
   *Satya Sai Srinath Namburi*, Alex James Boyd, Andrew Warrington \n
-  (W) [https://lock-llm.github.io/ Lock-LLM Workshop] at NeurIPS 2025.
-  [https://openreview.net/pdf?id=OkNfb8SmLh OpenReview] | [X https://x.com/srinath_namburi/status/1996314381093834887] | [https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17 Blogpost]
+  (W) [https://lock-llm.github.io/ Lock-LLM Workshop] at NeurIPS 2025. \n
+  [https://openreview.net/pdf?id=OkNfb8SmLh OpenReview] | [https://x.com/srinath_namburi/status/1996314381093834887 X] | [https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17 Blogpost]
 
 - Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in the Brain \n
   Subba Reddy Oota, Khushbu Pahwa, Prachi Jindal, *Satya Sai Srinath Namburi*, Maneesh Singh, Tanmoy Chakraborty, Bapi S. Raju, Manish Gupta \n
@@ -84,9 +84,9 @@ Checkout [researchjourney.html Research Journey (Unfiltered)] page to understand
 
 - Tabby: Tabular Adaptation for Language Models \n
     Sonia Cromp, *Satya Sai Srinath Namburi GNVV*, Catherine Cao, Mohammed Alkhudhayri, Samuel Guo, Nicholas Roberts, Frederic Sala \n
-    (C) Transactions on Machine Learning Research (TMLR) 2026 \n
+    (J) Transactions on Machine Learning Research (TMLR) 2026 \n
     (W) NeurIPS 2024 Workshop on [https://table-representation-learning.github.io/NeurIPS2024/ Table Representation Learning (TRL)] \n
-    [https://arxiv.org/abs/2503.02152 Arxiv] | [https://sprocketlab.github.io/posts/2025/02/tabby/ Blog] | [https://github.com/soCromp/tabby Github Code]
+    [https://openreview.net/forum?id=b9FPVnb0Bn OpenReview] | [https://arxiv.org/abs/2503.02152 Arxiv] | [https://sprocketlab.github.io/posts/2025/02/tabby/ Blog] | [https://github.com/soCromp/tabby Github Code]
 
 - RICA^2: Rubric-Informed, Calibrated Assessment of Actions \n
     Abrar Majeedi, Viswanatha Reddy Gajjala, *Satya Sai Srinath Namburi GNVV*, Yin Li \n

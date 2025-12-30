@@ -22,16 +22,16 @@ I made this page to serve at a bare minimum:
 == Publications
 - Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models \n
     *Story* \n
-    -- This is the project that me and Subba first interacted during NeurIPS 2023, he reached out after my workshop presentation that he's interested in our analysis of EMNLP2023 and wanted to do similar things in NeuroScience area. \n
-    -- The committments that he and I had at those times took so long!!! I got a job, Subba completed his Postdoc and in the meanwhile we had 2 other papers along the way (this one will be the 3rd of our collaboration, but the one which we discussed first) \n
-    -- A classic and realisitic example to understand how much time it takes to get through a collaborative research project involving people from different backgrounds and priorities.
+    -- This is the project that me and Subba first interacted during NeurIPS 2023, he reached out after my workshop presentation that he's interested in our analysis of EMNLP2023 and wanted to do similar things in Neuroscience area. \n
+    -- The committments that he and I had at those times took so long to complete and make this work happen!!! I got a job, Subba completed his Postdoc and in the meanwhile we had 2 other papers along the way (this one will be the 3rd of our collaboration, but the one we discussed first) \n
+    -- A classic example on realisitic goalsetting and understanding the time it takes to get through a collaborative research project involving people from different backgrounds and priorities.
     -- Currently under review
 
 - From Many Voices to One: Statistically Principled Aggregation of LLM Judges \n
     *Story* \n
-    -- I would say I got in this project, thanks to serendipity (and thanks to Dyah from Fred's lab). In one of the conversations, when I reached out to her about some project, she told that Jitian is working on some submission on LLM-as-a-judge and I might be interested and asked to check out. 
-    -- That way, I had an interaction with Jitian and Changho and onboarded on the project. Most of my work was on setting up code for data and running experiments. One of the projects where I can't comprehend the entire math. Works like this remind me the power of collaborations as I believe I alone wouldn't have done a project of this type (thanks to math savvys - Jitian and Changho)   
-    -- Submitted to NeurIPS 2025 got rejected with 5432. But it was decently helpful as we were able to get some feedback to improve the paper and presentation.
+    -- I got in this project, thanks to Dyah from Fred's lab. In one of an unrelated conversation, when I reached out to her about a project we were working, she told that Jitian is working on some submission on LLM-as-a-judge and I might be interested in that work. 
+    -- That started an interaction with Jitian and Changho and I onboarded on the project. Most of my work was on setting up code for data and running experiments. This is one of the projects where I can't comprehend the entire math and reminds me the power of collaborations as I believe I alone wouldn't have done a project of this type (thanks to math savvys - Jitian and Changho)   
+    -- Submitted to NeurIPS 2025 got rejected with 5432 [https://openreview.net/forum?id=1kuJqy1ZRy (OpenReview)]. But it was decently helpful as we were able to get some feedback to improve the paper and presentation.
 
 - Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs \n
     *Story* \n
@@ -49,7 +49,7 @@ I made this page to serve at a bare minimum:
 - R&B: Domain Regrouping and Data Mixture Balancing for Efficient Foundation Model Training \n
     *Story* \n
     -- Albert works with Fred and in some common discussions found that he's working on a project area which I was interested in. So, I pinged and joined this project. 
-    -- We submitted to COLM 2025 with initial scores of 577 and post rebuttal scores of 777 ([https://openreview.net/forum?id=JPCHPx2iAs#discussion OpenReview responses])but unfortunately rejected. This is a classic example of how luck might favor despite good ratings!!
+    -- We submitted to COLM 2025 with initial scores of 577 and post rebuttal scores of 777 [https://openreview.net/forum?id=JPCHPx2iAs (OpenReview responses)]but unfortunately rejected. This is a classic example of how luck might favor despite good ratings!!
     -- Currently under review
 
 - Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain) \n
@@ -67,7 +67,7 @@ I made this page to serve at a bare minimum:
   *Story* \n
   -- This was also with Harit, where we made an initial submission in just 3 months of work along with our resubmission of previous work (Pearls from Pebbles). Unfortunately, this submission to NeurIPS 2024 got rejected with ratings 3345 [https://openreview.net/forum?id=o76ZM9rH3r (OpenReview)]. \n
   -- Was unable to resubmit at ICLR 2025 as all the authors were busy with other priorities. \n
-  -- With major revisions and rewriting (title renamed to _Rethinking Confidence Scores and Thresholds in Pseudolabeling-based SSL_), we submitted to ICML 2025 and the initial reviews are 2223. But the rebuttal went very well (which happens rarely!) and the ratings changed to 2333 and thus accepted to ICML2025 [https://openreview.net/forum?id=w4c5bLkhsz(OpenReview)]; hurrayy!!
+  -- With major revisions and rewriting (title renamed to _Rethinking Confidence Scores and Thresholds in Pseudolabeling-based SSL_), we submitted to ICML 2025 and the initial reviews are 2223. But the rebuttal went very well (which happens rarely!) and the ratings changed to 2333 and thus accepted to ICML2025 [https://openreview.net/forum?id=w4c5bLkhsz        (OpenReview)]; hurrayy!!
   
 - Pretrained Hybrids with MAD Skills \n
     *Story* \n
