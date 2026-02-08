@@ -25,6 +25,7 @@ I made this page to serve at a bare minimum:
     -- This is the project that me and Subba first interacted during NeurIPS 2023, he reached out after my workshop presentation that he's interested in our analysis of EMNLP2023 and wanted to do similar things in Neuroscience area. \n
     -- The committments that he and I had at those times took so long to complete and make this work happen!!! I got a job, Subba completed his Postdoc and in the meanwhile we had 2 other papers along the way (this one will be the 3rd of our collaboration, but the one we discussed first) \n
     -- A classic example on realisitic goalsetting and understanding the time it takes to get through a collaborative research project involving people from different backgrounds and priorities.
+    -- This got rejected at ICLR 2026 [https://openreview.net/forum?id=GK6WWEwHek (OpenReview)] but we got some good feedback and improved the submission quite substantially in my opinion 
     -- Currently under review
 
 - From Many Voices to One: Statistically Principled Aggregation of LLM Judges \n
@@ -32,25 +33,29 @@ I made this page to serve at a bare minimum:
     -- I got in this project, thanks to Dyah from Fred's lab. In one of an unrelated conversation, when I reached out to her about a project we were working, she told that Jitian is working on some submission on LLM-as-a-judge and I might be interested in that work. 
     -- That started an interaction with Jitian and Changho and I onboarded on the project. Most of my work was on setting up code for data and running experiments. This is one of the projects where I can't comprehend the entire math and reminds me the power of collaborations as I believe I alone wouldn't have done a project of this type (thanks to math savvys - Jitian and Changho)   
     -- Submitted to NeurIPS 2025 got rejected with 5432 [https://openreview.net/forum?id=1kuJqy1ZRy (OpenReview)]. But it was decently helpful as we were able to get some feedback to improve the paper and presentation.
+    -- With revisions, we submitted to AISTATS 2026 and got rejected with 2456 [https://openreview.net/forum?id=OFVC9JuODh (OpenReview)]. This time, we were confident that it would've accepted given scores, but that's super unfortunate!
+    -- Currently under review
+
+- Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in the Brain \n
+    *Story* \n
+    -- A continued collaboration with Subba (first author) following our meet from NeurIPS 2023. \n
+    -- This work is sorta relevant and following up on some of the findings from our [https://openreview.net/forum?id=xkgfLXZ4e0 (ICLR)] paper, and when submitted to NeurIPS 2025. The initial scores were 3445 and even with a good rebuttal and final scores being 3555 with average of 4.5/6 [https://openreview.net/forum?id=9dtSxhfk7w) (OpenReview responses)], this got rejected :(.
+    -- This (along with R&B) is another example where just getting top scores won't matter and luck plays a role in deciding the fate of the venue.  
+    -- Unfortunately this got rejected at ICLR 2026 despite good scores 466 [https://openreview.net/forum?id=EUJ33R3LwL (OpenReview)] and part of the reason is the lack of rebuttal discussion post OpenReview incident where it's possible to convince some reviewers to increase the score/acknowledge. 
+    -- Currently under review 
+
+- R&B: Domain Regrouping and Data Mixture Balancing for Efficient Foundation Model Training \n
+    *Story* \n
+    -- Albert works with Fred and in some common discussions found that he's working on a project area which I was interested in. So, I pinged and joined this project. 
+    -- We submitted to COLM 2025 with initial scores of 577 and post rebuttal scores of 777 [https://openreview.net/forum?id=JPCHPx2iAs (OpenReview responses)]but unfortunately rejected. This is a classic example of how luck might favor despite good ratings!!
+    -- Unfortunately this got rejected at ICLR 2026 despite good scores 2448 [https://openreview.net/forum?id=DOPjpbHDlx (OpenReview)] and part of the reason is the lack of rebuttal discussion post OpenReview incident where it's possible to convince some reviewers to increase the score/acknowledge.
+    -- Didn't submit to next conference at the moment!
 
 - Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs \n
     *Story* \n
     -- A one-year part-time work at my firm resulted in this workshop paper at NeurIPS 2025 \n
     -- How I arrived at this final paper is quite interesting. I worked with a prof in Aug 2024 on understanding compression-based alignment. Unfortunately, that work got discountinued due to other priorities at that time and I restarted some exploratory work on compression-related speculative decoding in May/June 2025 but that direction was not fruitful as the results are not positive. \n 
     -- While exploring in that space, realized some experiments can be done in the previous space itself which led to this paper. A classic example that final paper can be very different from initial direction and inspiration can come from different places at different times. 
-
-- Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in the Brain \n
-    *Story* \n
-    -- A continued collaboration with Subba (first author) following our meet from NeurIPS 2023. \n
-    -- This work is sorta relevant and following up on some of the findings from our [https://openreview.net/forum?id=xkgfLXZ4e0 (ICLR)] paper, and when submitted to NeurIPS 2025. The initial scores were 3445 and even with a good rebuttal and final scores being 3555 with average of 4.5/6 [https://openreview.net/forum?id=9dtSxhfk7w&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions) (OpenReview responses)], this got rejected :(.
-    -- This (along with R&B) is another example where just getting top scores won't matter and luck plays a role in deciding the fate of the venue.  
-    -- Currently under review
-
-- R&B: Domain Regrouping and Data Mixture Balancing for Efficient Foundation Model Training \n
-    *Story* \n
-    -- Albert works with Fred and in some common discussions found that he's working on a project area which I was interested in. So, I pinged and joined this project. 
-    -- We submitted to COLM 2025 with initial scores of 577 and post rebuttal scores of 777 [https://openreview.net/forum?id=JPCHPx2iAs (OpenReview responses)]but unfortunately rejected. This is a classic example of how luck might favor despite good ratings!!
-    -- Currently under review
 
 - Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain) \n
   *Story* \n
@@ -84,6 +89,7 @@ I made this page to serve at a bare minimum:
     -- With major revisions, we submitted to ICML 2025; received scores of 2223, and the reviews during rebuttal changed 2223 -> 2233 -> 2223 and it finally got rejected :( But one thing I personally liked this time was that the AC engaged with our paper and raised very interesting points which improved the quality of our paper! 
     -- We went with submitting to NeurIPS 2025 from feedback received at ICML, but got rejected with scores 2334 and average of 3/6. 
     -- With all 3 major conferences done (while these experiences are expected in large scale submissions, I was slightly disappointed with some reviews in past), we submitted to TMLR which has a different reviewing style i.e by incorporating feedback from reviewers, we were able to get this one through [https://openreview.net/forum?id=b9FPVnb0Bn (OpenReview reviews)]:) It's interesting that there won't be any ratings for TMLR, but only feedback and overall I actually quite liked this format (even though folks consider this as lower bar compared with ICML, ICLR and NeurIPS, I believe this is a good place to publish as I have seen engaging conversations which genuinely improved our paper). 
+    -- And we also got the J2C certification which will allow the paper to be presented at one of ICLR,ICML,NeurIPS..so that's awesome and kinda circle
 
 - RICA^2: Rubric-Informed, Calibrated Assessment of Actions \n
     *Story* \n
