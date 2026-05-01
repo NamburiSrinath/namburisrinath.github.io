@@ -25,16 +25,16 @@ I made this page to serve at a bare minimum:
     -- This is the project that me and Subba first interacted during NeurIPS 2023, he reached out after my workshop presentation that he's interested in our analysis of EMNLP2023 and wanted to do similar things in Neuroscience area. \n
     -- The committments that he and I had at those times took so long to complete and make this work happen!!! I got a job, Subba completed his Postdoc and in the meanwhile we had 2 other papers along the way (this one will be the 3rd of our collaboration, but the one we discussed first) \n
     -- A classic example on realisitic goalsetting and understanding the time it takes to get through a collaborative research project involving people from different backgrounds and priorities.
-    -- This got rejected at ICLR 2026 [https://openreview.net/forum?id=GK6WWEwHek (OpenReview)] but we got some good feedback and improved the submission quite substantially in my opinion 
-    -- Currently under review
+    -- This got rejected at ICLR 2026 [https://openreview.net/forum?id=GK6WWEwHek (OpenReview)] but we got some good feedback and improved the submission quite substantially in my opinion. Unfortunately rebuttals didn't happen due to OpenReview leak, so the scores were 2244. And the metareviewer agreed that the scores would've gone to 4446 coming as borderline so they tended towards reject. 
+    -- The revised version got accepted to ICML 2026 as a **spotlight** [https://openreview.net/forum?id=WK1NvxRMsL (OpenReview)]. The rebuttal was great as the scores changed from 2345 -> 4555. 
 
 - From Many Voices to One: Statistically Principled Aggregation of LLM Judges \n
     *Story* \n
     -- I got in this project, thanks to Dyah from Fred's lab. In one of an unrelated conversation, when I reached out to her about a project we were working, she told that Jitian is working on some submission on LLM-as-a-judge and I might be interested in that work. 
     -- That started an interaction with Jitian and Changho and I onboarded on the project. Most of my work was on setting up code for data and running experiments. This is one of the projects where I can't comprehend the entire math and reminds me the power of collaborations as I believe I alone wouldn't have done a project of this type (thanks to math savvys - Jitian and Changho)   
     -- Submitted to NeurIPS 2025 got rejected with 5432 [https://openreview.net/forum?id=1kuJqy1ZRy (OpenReview)]. But it was decently helpful as we were able to get some feedback to improve the paper and presentation.
-    -- With revisions, we submitted to AISTATS 2026 and got rejected with 2456 [https://openreview.net/forum?id=OFVC9JuODh (OpenReview)]. This time, we were confident that it would've accepted given scores, but that's super unfortunate!
-    -- Currently under review
+    -- With revisions, we submitted to AISTATS 2026 (titled as _CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation_) and got rejected with 2456 [https://openreview.net/forum?id=OFVC9JuODh (OpenReview)]. This time, we were confident that it would've accepted given scores, but that's super unfortunate!
+    -- Incorporating the feedback, the new one got accepted to ICML 2026 [https://openreview.net/forum?id=3WPDFjZ1UT (OpenReview)]. We got pretty good scores (444) and rebuttal moved the needle a bit (445) towards acceptance. 
 
 - Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in the Brain \n
     *Story* \n
@@ -42,7 +42,13 @@ I made this page to serve at a bare minimum:
     -- This work is sorta relevant and following up on some of the findings from our [https://openreview.net/forum?id=xkgfLXZ4e0 (ICLR)] paper, and when submitted to NeurIPS 2025. The initial scores were 3445 and even with a good rebuttal and final scores being 3555 with average of 4.5/6 [https://openreview.net/forum?id=9dtSxhfk7w) (OpenReview responses)], this got rejected :(.
     -- This (along with R&B) is another example where just getting top scores won't matter and luck plays a role in deciding the fate of the venue.  
     -- Unfortunately this got rejected at ICLR 2026 despite good scores 466 [https://openreview.net/forum?id=EUJ33R3LwL (OpenReview)] and part of the reason is the lack of rebuttal discussion post OpenReview incident where it's possible to convince some reviewers to increase the score/acknowledge. 
+    -- The revised version (titled _Task-Conditioned Probing Reveals Brain-Alignment Patterns in Instruction-Tuned Multimodal LLMs_) got rejected at ICML 2026 [https://openreview.net/forum?id=uYAh30FEXp (OpenReview)]. Even though the rebuttals were good, we were unable to change the opinion of reviewers as the scores remained the same i.e 2334. 
     -- Currently under review 
+
+- Reasoning Gains Should Not Come at the Cost of Trustworthiness \n
+     *Story* \n
+     -- I got to know [https://amrit-singh-bedi.github.io/index.html#home Amrit] from a previous colleague at GEHC and we got to have few discussions before collaborating on this work. 
+     -- This is my first time submitting to a position track to ICML 2026. The reviews and the rebuttal by itself was decent (2235 -> 2245) but the main points that were raised are that the paper would better suit main track which led to rejection [https://openreview.net/forum?id=OJd3kRkDBn (OpenReview)]. 
 
 - R&B: Domain Regrouping and Data Mixture Balancing for Efficient Foundation Model Training \n
     *Story* \n
@@ -72,7 +78,7 @@ I made this page to serve at a bare minimum:
   *Story* \n
   -- This was also with Harit, where we made an initial submission in just 3 months of work along with our resubmission of previous work (Pearls from Pebbles). Unfortunately, this submission to NeurIPS 2024 got rejected with ratings 3345 [https://openreview.net/forum?id=o76ZM9rH3r (OpenReview)]. \n
   -- Was unable to resubmit at ICLR 2025 as all the authors were busy with other priorities. \n
-  -- With major revisions and rewriting (title renamed to _Rethinking Confidence Scores and Thresholds in Pseudolabeling-based SSL_), we submitted to ICML 2025 and the initial reviews are 2223. But the rebuttal went very well (which happens rarely!) and the ratings changed to 2333 and thus accepted to ICML2025 [https://openreview.net/forum?id=w4c5bLkhsz        (OpenReview)]; hurrayy!!
+  -- With major revisions and rewriting (title renamed to _Rethinking Confidence Scores and Thresholds in Pseudolabeling-based SSL_), we submitted to ICML 2025 and the initial reviews are 2223. But the rebuttal went very well (which happens rarely!) and the ratings changed to 2333 and thus accepted to ICML2025 [https://openreview.net/forum?id=w4c5bLkhsz (OpenReview)]; hurrayy!!
   
 - Pretrained Hybrids with MAD Skills \n
     *Story* \n
@@ -89,7 +95,7 @@ I made this page to serve at a bare minimum:
     -- With major revisions, we submitted to ICML 2025; received scores of 2223, and the reviews during rebuttal changed 2223 -> 2233 -> 2223 and it finally got rejected :( But one thing I personally liked this time was that the AC engaged with our paper and raised very interesting points which improved the quality of our paper! 
     -- We went with submitting to NeurIPS 2025 from feedback received at ICML, but got rejected with scores 2334 and average of 3/6. 
     -- With all 3 major conferences done (while these experiences are expected in large scale submissions, I was slightly disappointed with some reviews in past), we submitted to TMLR which has a different reviewing style i.e by incorporating feedback from reviewers, we were able to get this one through [https://openreview.net/forum?id=b9FPVnb0Bn (OpenReview reviews)]:) It's interesting that there won't be any ratings for TMLR, but only feedback and overall I actually quite liked this format (even though folks consider this as lower bar compared with ICML, ICLR and NeurIPS, I believe this is a good place to publish as I have seen engaging conversations which genuinely improved our paper). 
-    -- And we also got the J2C certification which will allow the paper to be presented at one of ICLR,ICML,NeurIPS..so that's awesome and kinda circle
+    -- And we also got the J2C certification which will allow the paper to be presented at one of ICLR,ICML,NeurIPS..so that's awesome and kinda circle. Sonia presented this at ICLR 2026.
 
 - RICA^2: Rubric-Informed, Calibrated Assessment of Actions \n
     *Story* \n
@@ -102,10 +108,9 @@ I made this page to serve at a bare minimum:
     *Story* \n
     -- Continued collaboration with Abrar after the RICA project!. \n
     -- We dropped the submission at last minute to ICLR 2025 as Yin felt it can be improved a lot and there are minor issues with current results; even though we pushed a lot to finish it on time \n
-    -- Post ICLR 2025, we kept on improving the paper and submitted to ICML 2025, the ratings were 2233 and after rebuttal it went to 2333 and got accepted [https://openreview.net/forum?id=LLk1qYQatJ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions) (OpenReview)]!!
+    -- Post ICLR 2025, we kept on improving the paper and submitted to ICML 2025, the ratings were 2233 and after rebuttal it went to 2333 and got accepted [https://openreview.net/forum?id=LLk1qYQatJ (OpenReview)]!!
     
-- The Cost of Compression: Investigating the Impact of Compression on
-Parametric Knowledge in Language Models \n
+- The Cost of Compression: Investigating the Impact of Compression on Parametric Knowledge in Language Models \n
     *Story* \n
     -- My first author paper at a reputable conference. I was out of touch with ML field for appx 2 years and was truly grateful to Makesh who actually introduced me to NLP and LLMs at right time. We managed to bring a submission with just 5 months of work with me leading the work. As Makesh was already doing his full-time he was able to help me with writing and that was very helpful as I learned a lot of skills (whatever I used to write in 6 hrs, he comes and polishes in a presentable way in just 30min) \n
     -- This was my first submission with Fred which went through EMNLP 2023 Findings with soundness ratings 233 [https://openreview.net/forum?id=hNSbSaD1WC (OpenReview)]. 
