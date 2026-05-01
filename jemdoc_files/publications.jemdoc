@@ -28,9 +28,9 @@ Checkout [researchjourney.html Research Journey (Unfiltered)] page to understand
 
 - From Many Voices to One: Statistically Principled Aggregation of LLM Judges \n
   Jitian Zhao, Changho Shin, Tzu-Heng Huang, *Srinath Namburi*, Frederic Sala \n
+  (C) International Conference on Machine Learning (ICML), 2026 \n
   (W) NeurIPS 2025 workshop on [https://sites.google.com/view/llm-eval-workshop?pli=1 Evaluating the Evolving LLM Lifecycle]: enchmarks, Emergent Abilities, and Scaling \n
   (W) NeurIPS 2025 workshop on [https://reliablemlworkshop.github.io/ Reliable ML from Unreliable Data] \n
-  (C) International Conference on Machine Learning (ICML), *Spotlight*, 2026 \n
   [https://openreview.net/forum?id=3WPDFjZ1UT OpenReview] | [https://arxiv.org/abs/2603.00039 Arxiv] | [https://openreview.net/pdf?id=Ou53DNvjx7 Workshop version]
 
 - Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs \n
