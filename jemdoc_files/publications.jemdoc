@@ -21,12 +21,21 @@ Checkout [researchjourney.html Research Journey (Unfiltered)] page to understand
 
 (C) - Conference, (W) - Workshop, (J) - Journal
 == Publications
+- Geospatial Diffusion-based Evolution Synthesis (GeoDES) for Augmentation of Location-Sparse Phenomena \n
+  Sonia Cromp, *Satya Sai Srinath Namburi GNVV*, Youran Wang, Grace Kisslinger, Frederic Sala, James Booth, Allegra LeGrande \n
+  (C) Meeting of the American Meteorological Society (AMS), 2025
+  [https://arxiv.org/abs/2607.19522 arXiv]
+
+- Brain alignment of reasoning and action representations from vision–language and action models during naturalistic gameplay \n
+  Subba Reddy Oota, Anant Khandelwal, Khushbu Pahwa, *Satya Sai Srinath Namburi*, Tanmoy Chakraborty, Bapi S. Raju, Manish Gupta \n
+  [https://arxiv.org/abs/2605.19352 arXiv]
+
 - Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models \n
   Subba Reddy Oota, *Satya Sai Srinath Namburi GNVV*, Vijay Rowtula, Khushbu Pahwa, Anant Khandelwal, Manish Gupta, Tanmoy Chakraborty, Bapi Raju Surampudi \n
   (C) International Conference on Machine Learning (ICML), *Spotlight*, 2026 \n
   [https://openreview.net/forum?id=WK1NvxRMsL OpenReview] | [https://arxiv.org/abs/2602.07547 Arxiv]
 
-- From Many Voices to One: Statistically Principled Aggregation of LLM Judges \n
+- CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation \n
   Jitian Zhao, Changho Shin, Tzu-Heng Huang, *Srinath Namburi*, Frederic Sala \n
   (C) International Conference on Machine Learning (ICML), 2026 \n
   (W) NeurIPS 2025 workshop on [https://sites.google.com/view/llm-eval-workshop?pli=1 Evaluating the Evolving LLM Lifecycle]: enchmarks, Emergent Abilities, and Scaling \n
@@ -38,7 +47,7 @@ Checkout [researchjourney.html Research Journey (Unfiltered)] page to understand
   (W) [https://lock-llm.github.io/ Lock-LLM Workshop] at NeurIPS 2025. \n
   [https://openreview.net/pdf?id=OkNfb8SmLh OpenReview] | [https://x.com/srinath_namburi/status/1996314381093834887 X] | [https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17 Blogpost]
 
-- Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in the Brain \n
+- Task-conditioned probing of instruction-tuned multimodal LLMs: Region-specific brain alignment patterns under naturalistic stimuli \n
   Subba Reddy Oota, Khushbu Pahwa, Prachi Jindal, *Satya Sai Srinath Namburi*, Maneesh Singh, Tanmoy Chakraborty, Bapi S. Raju, Manish Gupta \n
   Under Review \n
   [https://arxiv.org/abs/2506.08277 Arxiv]
@@ -123,20 +132,21 @@ Parametric Knowledge in Language Models \n
 
 == Service
 Served as a reviewer for 
-- International Conference on Machine Learning (ICML) \n
+- Transactions on Machine Learning Research (TMLR) \n
 2026
+- Neural Information Processing Systems (NeurIPS) \n
+2026 
+- International Conference on Machine Learning (ICML) \n
+2026 (Silver reviewer award, top 50\%)
 - International Conference on Learning Representations (ICLR) \n
 2026, 2025
 - Association for the Advancement of Artificial Intelligence (AAAI) \n
 2025
 - ARR for Association for Computational Linguistics (ACL) \n
-May 2025, Jan 2025, June 2024 
-- Computer Vision and Pattern Recognition (CVPR) \n
-2026, 2025
-- European Conference on Computer Vision (ECCV) \n
-2026
+May 2025, Jan 2025, June 2024
 
 *Workshops*
+- Speech, Vision, and Language Technologies for Dravidian Languages ([https://sites.google.com/view/dravidianlangtech-2026 DravidianLangTech]) at ACL 2026. \n
 - Mechanistic Interpretability ([https://mechinterpworkshop.com/ MI]) at NeurIPS 2025. \n
 - Long Context Foundational Models ([https://longcontextfm.github.io/ LCFM]) at ICML 2025. \n
 - Efficient Systems for Foundation Models ([https://es-fomo.com/ ES-FoMo-II]) at ICML 2024. \n

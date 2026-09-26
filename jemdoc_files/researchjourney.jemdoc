@@ -20,6 +20,18 @@ I made this page to serve at a bare minimum:
 *Note:* As such, I wanted to keep the unfiltered, raw truth version which won't be rosy. Obviously, this will be heavily filtered in professional resume (which is the case for almost everyone).
 
 == Publications
+- Geospatial Diffusion-based Evolution Synthesis (GeoDES) for Augmentation of Location-Sparse Phenomena \n
+    *Story* \n
+    -- This was a collaborative project with Sonia; from Fred's lab with whom I've previously worked with Tabby
+    -- The paper was initially submitted to TMLR 2026 but was desk-rejected as it "apparently" doesn't have enough audience!! This honestly felt bad and slightly disappointing [https://openreview.net/forum?id=3v2tZ4aV8A (OpenReview)]
+    -- Currently under review 
+
+- Brain alignment of reasoning and action representations from vision–language and action models during naturalistic gameplay \n
+    *Story* \n
+    -- This project was continuation from collaboration with Subba with whom I had opportunity to work on AI x NeuroScience \n
+    -- The first version was submitted to NeurIPS 2026 and 244 -> 334 leading to rejection, but the paper was well received [https://openreview.net/forum?id=oVddzWxbi6 (OpenReview)].
+    -- Currently under review
+
 - Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models \n
     *Story* \n
     -- This is the project that me and Subba first interacted during NeurIPS 2023, he reached out after my workshop presentation that he's interested in our analysis of EMNLP2023 and wanted to do similar things in Neuroscience area. \n
@@ -39,23 +51,25 @@ I made this page to serve at a bare minimum:
 - Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in the Brain \n
     *Story* \n
     -- A continued collaboration with Subba (first author) following our meet from NeurIPS 2023. \n
-    -- This work is sorta relevant and following up on some of the findings from our [https://openreview.net/forum?id=xkgfLXZ4e0 (ICLR)] paper, and when submitted to NeurIPS 2025. The initial scores were 3445 and even with a good rebuttal and final scores being 3555 with average of 4.5/6 [https://openreview.net/forum?id=9dtSxhfk7w) (OpenReview responses)], this got rejected :(.
+    -- This work is sorta relevant and following up on some of the findings from our [https://openreview.net/forum?id=xkgfLXZ4e0 (ICLR)] paper, and when submitted to NeurIPS 2025. The initial scores were 3445 and even with a good rebuttal and final scores being 3555 with average of 4.5/6 [https://openreview.net/forum?id=9dtSxhfk7w (OpenReview responses)], this got rejected :(.
     -- This (along with R&B) is another example where just getting top scores won't matter and luck plays a role in deciding the fate of the venue.  
     -- Unfortunately this got rejected at ICLR 2026 despite good scores 466 [https://openreview.net/forum?id=EUJ33R3LwL (OpenReview)] and part of the reason is the lack of rebuttal discussion post OpenReview incident where it's possible to convince some reviewers to increase the score/acknowledge. 
     -- The revised version (titled _Task-Conditioned Probing Reveals Brain-Alignment Patterns in Instruction-Tuned Multimodal LLMs_) got rejected at ICML 2026 [https://openreview.net/forum?id=uYAh30FEXp (OpenReview)]. Even though the rebuttals were good, we were unable to change the opinion of reviewers as the scores remained the same i.e 2334. 
+    -- The paper was significantly improved and submitted to NeurIPS 2026 *again* and received initial score of 2235. The rebuttal went well but it unfortunately got rejected with scores of 2345 [https://openreview.net/forum?id=WPVcJgtz6h (OpenReview)] !!! 
     -- Currently under review 
 
 - Reasoning Gains Should Not Come at the Cost of Trustworthiness \n
      *Story* \n
      -- I got to know [https://amrit-singh-bedi.github.io/index.html Amrit] from a previous colleague at GEHC and we got to have few discussions before collaborating on this work. 
      -- This is my first time submitting to a position track to ICML 2026. The reviews and the rebuttal by itself was decent (2235 -> 2245) but the main points that were raised are that the paper would better suit main track which led to rejection [https://openreview.net/forum?id=OJd3kRkDBn (OpenReview)]. 
+     -- With good modifications and a change in the position of paper (with title _Does Reasoning Preserve Alignment? On the Trustworthiness of Large Reasoning Models_), this went through to EMNLP Findings 2026 [https://openreview.net/forum?id=2G9AQiqdKO OpenReview]
 
 - R&B: Domain Regrouping and Data Mixture Balancing for Efficient Foundation Model Training \n
     *Story* \n
     -- Albert works with Fred and in some common discussions found that he's working on a project area which I was interested in. So, I pinged and joined this project. 
     -- We submitted to COLM 2025 with initial scores of 577 and post rebuttal scores of 777 [https://openreview.net/forum?id=JPCHPx2iAs (OpenReview responses)]but unfortunately rejected. This is a classic example of how luck might favor despite good ratings!!
     -- Unfortunately this got rejected at ICLR 2026 despite good scores 2448 [https://openreview.net/forum?id=DOPjpbHDlx (OpenReview)] and part of the reason is the lack of rebuttal discussion post OpenReview incident where it's possible to convince some reviewers to increase the score/acknowledge.
-    -- Didn't submit to next conference at the moment!
+    -- Project got shelved i.e not submitting to any conference!!
 
 - Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs \n
     *Story* \n
